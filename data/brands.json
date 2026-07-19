@@ -1,0 +1,127 @@
+{
+  "motorola": {
+    "name": "Motorola",
+    "founded": "1928",
+    "history": "Motorola pioneered the car phone era and, in 1983, put the first handset in a pocket. Through the 90s and 2000s its candybars and flips defined mass-market mobile design."
+  },
+  "nokia": {
+    "name": "Nokia",
+    "founded": "1865",
+    "history": "A Finnish paper mill turned telecom giant. Nokia's rugged, endlessly customizable handsets made it the world's best-selling phone maker for over a decade."
+  },
+  "ericsson": {
+    "name": "Ericsson",
+    "founded": "1876",
+    "history": "Swedish engineering known for restrained, minimal handset design through the 1990s. Its mobile phone division merged into a joint venture with Sony in 2001, ending Ericsson's solo run in the handset market."
+  },
+  "sony": {
+    "name": "Sony",
+    "founded": "1946",
+    "history": "Sony sold phones under its own name before and after a decade-long joint venture with Ericsson; since reclaiming full control of its mobile division in 2012, its Xperia line has run as a niche, camera-focused alternative to the Android mainstream."
+  },
+  "siemens": {
+    "name": "Siemens",
+    "founded": "1847",
+    "history": "A German industrial giant that built dependable, understated phones through the 90s. It exited the handset business in 2005, selling the division to BenQ."
+  },
+  "samsung": {
+    "name": "Samsung",
+    "founded": "1938",
+    "history": "From clamshells to the Galaxy line, Samsung's mobile division grew from a fast-follower into the industry's largest smartphone manufacturer by volume."
+  },
+  "apple": {
+    "name": "Apple",
+    "founded": "1976",
+    "history": "Apple entered the phone market in 2007 with a single touchscreen slab, collapsing keypads, styluses and app stores into one glass rectangle — and rewrote the category."
+  },
+  "blackberry": {
+    "name": "BlackBerry",
+    "founded": "1984",
+    "history": "Research In Motion's BlackBerry line married a physical keyboard to push email, becoming the definitive tool of the 2000s office worker before touchscreens took over."
+  },
+  "lg": {
+    "name": "LG",
+    "founded": "1958",
+    "history": "LG's mobile division rose on fashion-forward sliders like the Chocolate, later pursued ambitious Android design, and exited the phone business entirely in 2021."
+  },
+  "google": {
+    "name": "Google",
+    "founded": "2016",
+    "history": "Google's Pixel line, launched in 2016, replaced its Nexus reference devices — positioning hardware and software as a single, tightly authored experience."
+  },
+  "huawei": {
+    "name": "Huawei",
+    "founded": "1987",
+    "history": "A Chinese telecom-equipment maker turned smartphone contender, briefly the world's largest by shipments before 2020 sanctions cut off its access to Google services."
+  },
+  "xiaomi": {
+    "name": "Xiaomi",
+    "founded": "2010",
+    "history": "Xiaomi built a global following on flagship-grade hardware at aggressive prices, paired with its MIUI software and a famously vocal online community."
+  },
+  "panasonic": {
+    "name": "Panasonic",
+    "founded": "1918",
+    "history": "Best known in Japan's domestic carrier market, Panasonic's handsets favored quiet, functional design over the flash of its competitors."
+  },
+  "htc": {
+    "name": "HTC",
+    "founded": "1997",
+    "history": "HTC helped build the first Android phones and popularized big-screen smartphones with its Sense software, before scaling back sharply in the smartphone market during the 2010s."
+  },
+  "oneplus": {
+    "name": "OnePlus",
+    "founded": "2013",
+    "history": "OnePlus built a cult following with 'flagship killer' pricing and a fast, close-to-stock Android experience, marketed almost entirely through word of mouth and invites."
+  },
+  "palm": {
+    "name": "Palm",
+    "founded": "1992",
+    "history": "Palm pioneered the handheld PDA and later reinvented itself around webOS, a fluid multitasking smartphone platform that arrived too late to outrun iOS and Android."
+  },
+  "nothing": {
+    "name": "Nothing",
+    "founded": "2020",
+    "history": "A London startup led by former OnePlus co-founder Carl Pei, Nothing built its identity around transparent backs, dot-matrix displays, and a distinctive 'Glyph' LED lighting system."
+  },
+  "nec": {
+    "name": "NEC",
+    "founded": "1899",
+    "history": "A major Japanese electronics and telecoms conglomerate, NEC made mobile handsets mostly for Japan's domestic carriers rather than chasing a global export market."
+  },
+  "bosch": {
+    "name": "Bosch",
+    "founded": "1886",
+    "history": "Better known for automotive and industrial engineering, Bosch ran a mobile phone division through the 1990s before exiting the handset business entirely to focus on its core industries."
+  },
+  "philips": {
+    "name": "Philips",
+    "founded": "1891",
+    "history": "The Dutch electronics giant sold mobile phones through the 1990s and 2000s, later licensing the Philips name to other manufacturers rather than continuing to build handsets in-house."
+  },
+  "sagem": {
+    "name": "Sagem",
+    "founded": "1924",
+    "history": "A French electronics and defense manufacturer, Sagem sold a wide range of budget and mid-range mobile phones across Europe through the 1990s and 2000s."
+  },
+  "orbitel": {
+    "name": "Orbitel",
+    "founded": "1990",
+    "history": "A short-lived British joint venture between Racal and Plessey, Orbitel built some of the earliest commercial GSM handsets before being absorbed into other telecom businesses."
+  },
+  "ibm": {
+    "name": "IBM",
+    "founded": "1911",
+    "history": "IBM's Simon Personal Communicator, released in 1994, combined a phone with a touchscreen, apps, and a stylus a full 13 years before the iPhone — a smartphone before the term existed."
+  },
+  "mitsubishi": {
+    "name": "Mitsubishi",
+    "founded": "1870",
+    "history": "Part of the sprawling Mitsubishi conglomerate, its mobile phones were sold mainly through Japanese and select European carriers rather than as a global consumer brand."
+  },
+  "alcatel": {
+    "name": "Alcatel",
+    "founded": "1898",
+    "history": "A French telecom equipment maker, Alcatel sold budget-friendly handsets worldwide before licensing its phone business to Chinese manufacturer TCL."
+  }
+}

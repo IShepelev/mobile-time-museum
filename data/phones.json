@@ -1,0 +1,5931 @@
+[
+  {
+    "id": "nokia-mobira-senator",
+    "brand": "nokia",
+    "name": "Mobira Senator",
+    "year": 1982,
+    "announced": "1982",
+    "released": "1982",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "brick",
+    "desc": "Released in 1982 as part of Nokia-Mobira's Senator line, the Mobira Senator was built as a transportable phone for NMT networks, mostly carried in cars rather than pockets.",
+    "fact": "It was one of the first mobile phones Nokia's predecessor Mobira brought to market, weighing close to 10 kilograms.",
+    "specs": {
+      "display": "None (LED readout)",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "None",
+      "memory": "N/A",
+      "connectivity": "None",
+      "dimensions": "N/A",
+      "weight": "~9.8 kg",
+      "network": "NMT 450",
+      "os": "N/A",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "motorola-dynatac-8000x",
+    "brand": "motorola",
+    "name": "DynaTAC 8000X",
+    "year": 1983,
+    "announced": "Mar 1983",
+    "released": "Mar 1983",
+    "price": "$3,995",
+    "colors": [
+      "White"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 1983 as part of Motorola's DynaTAC line, the DynaTAC 8000X was built as a candybar handset.",
+    "fact": "First commercially available handheld mobile phone.",
+    "specs": {
+      "display": "N/A",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "N/A",
+      "memory": "N/A",
+      "connectivity": "N/A",
+      "dimensions": "33 × 4.5 × 8.9 cm",
+      "weight": "790 g",
+      "network": "AMPS (1G)",
+      "os": "N/A",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "motorola-dynatac-8000s",
+    "brand": "motorola",
+    "name": "DynaTAC 8000s",
+    "year": 1985,
+    "announced": "1985",
+    "released": "1985",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 1985 as part of Motorola's DynaTAC line, the DynaTAC 8000s was built as a candybar handset.",
+    "fact": "It followed the Updated DynaTAC variant in Motorola's lineup.",
+    "specs": {
+      "display": "N/A",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "N/A",
+      "memory": "N/A",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "AMPS (1G)",
+      "os": "N/A",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-mobira-talkman",
+    "brand": "nokia",
+    "name": "Mobira Talkman",
+    "year": 1985,
+    "announced": "1985",
+    "released": "1985",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "brick",
+    "desc": "Released in 1985 as part of Nokia's Mobira line, the Mobira Talkman was built as a transportable phone.",
+    "fact": "It followed the Portable transportable mobile phone in Nokia's lineup.",
+    "specs": {
+      "display": "N/A",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "N/A",
+      "memory": "N/A",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "NMT 450",
+      "os": "N/A",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "motorola-dynatac-8500x",
+    "brand": "motorola",
+    "name": "DynaTAC 8500X",
+    "year": 1987,
+    "announced": "1987",
+    "released": "1987",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 1987 as part of Motorola's DynaTAC line, the DynaTAC 8500X was built as a candybar handset.",
+    "fact": "It followed the Improved battery life in Motorola's lineup.",
+    "specs": {
+      "display": "N/A",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "N/A",
+      "memory": "N/A",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "AMPS (1G)",
+      "os": "N/A",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-mobira-cityman-450",
+    "brand": "nokia",
+    "name": "Mobira Cityman 450",
+    "year": 1987,
+    "announced": "1987",
+    "released": "1987",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 1987 as part of Nokia's Cityman line, the Mobira Cityman 450 was built as a candybar handset.",
+    "fact": "It followed the Known as the 'Gorba' phone in Nokia's lineup.",
+    "specs": {
+      "display": "N/A",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "N/A",
+      "memory": "N/A",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "NMT 450",
+      "os": "N/A",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "motorola-microtac-9800x",
+    "brand": "motorola",
+    "name": "MicroTAC 9800X",
+    "year": 1989,
+    "announced": "April 1989",
+    "released": "April 1989",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "flip",
+    "desc": "Released in 1989 as part of Motorola's MicroTAC line, the MicroTAC 9800X was built as a flip phone.",
+    "fact": "First flip phone.",
+    "specs": {
+      "display": "N/A",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "N/A",
+      "memory": "N/A",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "AMPS (1G)",
+      "os": "N/A",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-mobira-cityman-900",
+    "brand": "nokia",
+    "name": "Mobira Cityman 900",
+    "year": 1989,
+    "announced": "1989",
+    "released": "1989",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 1989 as part of Nokia's Cityman line, the Mobira Cityman 900 was built as a candybar handset.",
+    "fact": "It followed the Mobira Cityman 450 in Nokia's lineup.",
+    "specs": {
+      "display": "N/A",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "N/A",
+      "memory": "N/A",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "NMT 900",
+      "os": "N/A",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "motorola-microtac-classic",
+    "brand": "motorola",
+    "name": "MicroTAC Classic",
+    "year": 1991,
+    "announced": "1991",
+    "released": "1991",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "flip",
+    "desc": "Released in 1991 as part of Motorola's MicroTAC line, the MicroTAC Classic was built as a flip phone.",
+    "fact": "Refined MicroTAC.",
+    "specs": {
+      "display": "N/A",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "N/A",
+      "memory": "N/A",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "AMPS (1G)",
+      "os": "N/A",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nec-p3",
+    "brand": "nec",
+    "name": "P3",
+    "year": 1991,
+    "announced": "1991",
+    "released": "1991",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 1991 as part of NEC's P line, the P3 was built as a candybar handset.",
+    "fact": "One of NEC's releases from 1991.",
+    "specs": {
+      "display": "N/A",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "N/A",
+      "memory": "N/A",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "Analog",
+      "os": "N/A",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "bosch-cartel-sc",
+    "brand": "bosch",
+    "name": "Cartel SC",
+    "year": 1992,
+    "announced": "1992",
+    "released": "1992",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 1992 as part of Bosch's Cartel line, the Cartel SC was built as a candybar handset.",
+    "fact": "One of Bosch's releases from 1992.",
+    "specs": {
+      "display": "N/A",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "N/A",
+      "memory": "N/A",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "GSM",
+      "os": "N/A",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "motorola-international-3200",
+    "brand": "motorola",
+    "name": "International 3200",
+    "year": 1992,
+    "announced": "1992",
+    "released": "1992",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 1992 as part of Motorola's International line, the International 3200 was built as a candybar handset.",
+    "fact": "One of the first GSM handsets.",
+    "specs": {
+      "display": "N/A",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "N/A",
+      "memory": "N/A",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "GSM",
+      "os": "N/A",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-101",
+    "brand": "nokia",
+    "name": "101",
+    "year": 1992,
+    "announced": "1992",
+    "released": "1992",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 1992 as part of Nokia's 100 line, the 101 was built as a candybar handset.",
+    "fact": "It was later followed by the 1011.",
+    "specs": {
+      "display": "N/A",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "N/A",
+      "memory": "N/A",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "GSM",
+      "os": "N/A",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-1011",
+    "brand": "nokia",
+    "name": "1011",
+    "year": 1992,
+    "announced": "Nov 1992",
+    "released": "Nov 1992",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 1992 as part of Nokia's 1000 line, the 1011 was built as a candybar handset.",
+    "fact": "First mass-produced GSM phone.",
+    "specs": {
+      "display": "N/A",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "N/A",
+      "memory": "N/A",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "GSM",
+      "os": "N/A",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "orbitel-901",
+    "brand": "orbitel",
+    "name": "901",
+    "year": 1992,
+    "announced": "1992",
+    "released": "1992",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 1992 as part of Orbitel's 900 line, the 901 was built as a candybar handset.",
+    "fact": "Early GSM handset.",
+    "specs": {
+      "display": "N/A",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "N/A",
+      "memory": "N/A",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "GSM",
+      "os": "N/A",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "panasonic-eb-100",
+    "brand": "panasonic",
+    "name": "EB-100",
+    "year": 1992,
+    "announced": "1992",
+    "released": "1992",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 1992 as part of Panasonic's EB line, the EB-100 was built as a candybar handset.",
+    "fact": "One of Panasonic's releases from 1992.",
+    "specs": {
+      "display": "N/A",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "N/A",
+      "memory": "N/A",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "GSM",
+      "os": "N/A",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "philips-fizz",
+    "brand": "philips",
+    "name": "Fizz",
+    "year": 1992,
+    "announced": "1992",
+    "released": "1992",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 1992, the Fizz was built as a candybar handset.",
+    "fact": "One of Philips's releases from 1992.",
+    "specs": {
+      "display": "N/A",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "N/A",
+      "memory": "N/A",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "GSM",
+      "os": "N/A",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "sony-cm-h333",
+    "brand": "sony",
+    "name": "CM-H333",
+    "year": 1992,
+    "announced": "1992",
+    "released": "1992",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 1992 as part of Sony's CM line, the CM-H333 was built as a candybar handset.",
+    "fact": "Sony's first mobile phone.",
+    "specs": {
+      "display": "N/A",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "N/A",
+      "memory": "N/A",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "GSM",
+      "os": "N/A",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-1610",
+    "brand": "nokia",
+    "name": "1610",
+    "year": 1993,
+    "announced": "1993",
+    "released": "1993",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 1993 as part of Nokia's 1000 line, the 1610 was built as a candybar handset for the newly expanding GSM networks across Europe.",
+    "fact": "It was among Nokia's earlier GSM candybars, arriving as digital networks were still being rolled out market by market.",
+    "specs": {
+      "display": "Monochrome LCD",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "None",
+      "memory": "N/A",
+      "connectivity": "None",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "GSM",
+      "os": "N/A",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "ibm-simon-personal-communicator",
+    "brand": "ibm",
+    "name": "Simon Personal Communicator",
+    "year": 1994,
+    "announced": "Aug 1994",
+    "released": "Aug 1994",
+    "price": "$899",
+    "colors": [
+      "Black"
+    ],
+    "shape": "touch",
+    "desc": "Released in 1994 as part of IBM's Simon line, the Simon Personal Communicator was built as a touchscreen phone running Datalight ROM-DOS.",
+    "fact": "First smartphone.",
+    "specs": {
+      "display": "4.5\"",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "N/A",
+      "memory": "1 MB",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "510 g",
+      "network": "AMPS · Mini",
+      "os": "Datalight ROM-DOS",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-2010",
+    "brand": "nokia",
+    "name": "2010",
+    "year": 1994,
+    "announced": "1994",
+    "released": "1994",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 1994 as part of Nokia's 2000 line, the 2010 was built as a candybar handset, sold as a simplified, less expensive sibling to the 2110.",
+    "fact": "It shared most of its internals with the 2110, trimmed down for markets that didn't need the extra features.",
+    "specs": {
+      "display": "Monochrome LCD",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "None",
+      "memory": "N/A",
+      "connectivity": "None",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "GSM",
+      "os": "N/A",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-2110",
+    "brand": "nokia",
+    "name": "2110",
+    "year": 1994,
+    "announced": "January 1994",
+    "released": "January 1994",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 1994 as part of Nokia's 2100 line, the 2110 was built as a candybar handset.",
+    "fact": "Introduced Nokia ringtone.",
+    "specs": {
+      "display": "N/A",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "N/A",
+      "memory": "N/A",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "GSM",
+      "os": "N/A",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-2160",
+    "brand": "nokia",
+    "name": "2160",
+    "year": 1994,
+    "announced": "1994",
+    "released": "1994",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 1994 as part of Nokia's 2100 line, the 2160 was built as a candybar handset.",
+    "fact": "North American variant.",
+    "specs": {
+      "display": "N/A",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "N/A",
+      "memory": "N/A",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "GSM",
+      "os": "N/A",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-232",
+    "brand": "nokia",
+    "name": "232",
+    "year": 1994,
+    "announced": "1994",
+    "released": "1994",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 1994 as part of Nokia's 200 line, the 232 was built as a candybar handset.",
+    "fact": "One of Nokia's releases from 1994.",
+    "specs": {
+      "display": "N/A",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "N/A",
+      "memory": "N/A",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "GSM",
+      "os": "N/A",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "siemens-s1",
+    "brand": "siemens",
+    "name": "S1",
+    "year": 1994,
+    "announced": "1994",
+    "released": "1994",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 1994 as part of Siemens's S line, the S1 was built as a candybar handset.",
+    "fact": "One of Siemens's releases from 1994.",
+    "specs": {
+      "display": "N/A",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "N/A",
+      "memory": "N/A",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "GSM",
+      "os": "N/A",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "ericsson-gh337",
+    "brand": "ericsson",
+    "name": "GH337",
+    "year": 1995,
+    "announced": "1995",
+    "released": "1995",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 1995 as part of Ericsson's GH line, the GH337 was built as a candybar handset.",
+    "fact": "One of Ericsson's releases from 1995.",
+    "specs": {
+      "display": "N/A",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "N/A",
+      "memory": "N/A",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "GSM",
+      "os": "N/A",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "motorola-flare",
+    "brand": "motorola",
+    "name": "Flare",
+    "year": 1995,
+    "announced": "1995",
+    "released": "1995",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 1995, the Flare was built as a candybar handset.",
+    "fact": "One of Motorola's releases from 1995.",
+    "specs": {
+      "display": "N/A",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "N/A",
+      "memory": "N/A",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "Analog",
+      "os": "N/A",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-2110i",
+    "brand": "nokia",
+    "name": "2110i",
+    "year": 1995,
+    "announced": "1995",
+    "released": "1995",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 1995 as part of Nokia's 2100 line, the 2110i was built as a candybar handset, an updated version of the 2110 with revised software and styling.",
+    "fact": "It refined the original 2110's software and design without changing the core formula.",
+    "specs": {
+      "display": "Monochrome LCD",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "None",
+      "memory": "N/A",
+      "connectivity": "None",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "GSM",
+      "os": "N/A",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "siemens-s3",
+    "brand": "siemens",
+    "name": "S3",
+    "year": 1995,
+    "announced": "1995",
+    "released": "1995",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 1995 as part of Siemens's S line, the S3 was built as a candybar handset.",
+    "fact": "One of Siemens's releases from 1995.",
+    "specs": {
+      "display": "N/A",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "N/A",
+      "memory": "N/A",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "GSM",
+      "os": "N/A",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "ericsson-sh888",
+    "brand": "ericsson",
+    "name": "SH888",
+    "year": 1996,
+    "announced": "1996",
+    "released": "1996",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 1996 as part of Ericsson's SH line, the SH888 was built as a candybar handset.",
+    "fact": "First Ericsson GSM dual-band.",
+    "specs": {
+      "display": "N/A",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "N/A",
+      "memory": "N/A",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "GSM",
+      "os": "N/A",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "mitsubishi-mt-20",
+    "brand": "mitsubishi",
+    "name": "MT-20",
+    "year": 1996,
+    "announced": "1996",
+    "released": "1996",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 1996 as part of Mitsubishi's MT line, the MT-20 was built as a candybar handset.",
+    "fact": "One of Mitsubishi's releases from 1996.",
+    "specs": {
+      "display": "N/A",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "N/A",
+      "memory": "N/A",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "GSM",
+      "os": "N/A",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "motorola-startac",
+    "brand": "motorola",
+    "name": "StarTAC",
+    "year": 1996,
+    "announced": "January 1996",
+    "released": "January 1996",
+    "price": "N/A",
+    "colors": [
+      "1000"
+    ],
+    "shape": "flip",
+    "desc": "Released in 1996, the StarTAC was built as a clamshell phone.",
+    "fact": "It followed the First popular clamshell in Motorola's lineup.",
+    "specs": {
+      "display": "N/A",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "N/A",
+      "memory": "N/A",
+      "connectivity": "N/A",
+      "dimensions": "94 g",
+      "weight": "Black",
+      "network": "GSM/CDMA",
+      "os": "N/A",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-8110",
+    "brand": "nokia",
+    "name": "8110",
+    "year": 1996,
+    "announced": "1996",
+    "released": "1996",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "slider",
+    "desc": "Released in 1996 as part of Nokia's 8000 line, the 8110 was built as a slider phone with a curved 'banana' shape and a spring-loaded cover that slid down to answer calls.",
+    "fact": "Its slide-to-answer curved shape earned it a starring cameo in 'The Matrix' and a nickname that stuck ever since.",
+    "specs": {
+      "display": "Monochrome LCD",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "None",
+      "memory": "N/A",
+      "connectivity": "Infrared",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "GSM",
+      "os": "N/A",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-9000-communicator",
+    "brand": "nokia",
+    "name": "9000 Communicator",
+    "year": 1996,
+    "announced": "1996",
+    "released": "1996",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "flip",
+    "desc": "Released in 1996 as part of Nokia's Communicator line, the 9000 Communicator was built as a flip phone folding open into a full QWERTY keyboard, PDA, fax and email client in one body.",
+    "fact": "It's widely considered one of the very first smartphones, years before the term existed.",
+    "specs": {
+      "display": "Monochrome LCD, 640x200px (internal)",
+      "processor": "Intel 24 MHz",
+      "battery": "N/A",
+      "camera": "None",
+      "memory": "8 MB",
+      "connectivity": "Infrared",
+      "dimensions": "N/A",
+      "weight": "397 g",
+      "network": "GSM",
+      "os": "GEOS",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "alcatel-one-touch-easy",
+    "brand": "alcatel",
+    "name": "One Touch Easy",
+    "year": 1997,
+    "announced": "1997",
+    "released": "1997",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 1997 as part of Alcatel's One Touch line, the One Touch Easy was built as a candybar handset.",
+    "fact": "One of Alcatel's releases from 1997.",
+    "specs": {
+      "display": "N/A",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "N/A",
+      "memory": "N/A",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "GSM",
+      "os": "N/A",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "bosch-909-dual-s",
+    "brand": "bosch",
+    "name": "909 Dual S",
+    "year": 1997,
+    "announced": "1997",
+    "released": "1997",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 1997 as part of Bosch's 909 line, the 909 Dual S was built as a candybar handset.",
+    "fact": "One of Bosch's releases from 1997.",
+    "specs": {
+      "display": "N/A",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "N/A",
+      "memory": "N/A",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "GSM",
+      "os": "N/A",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nec-p701",
+    "brand": "nec",
+    "name": "P701",
+    "year": 1997,
+    "announced": "1997",
+    "released": "1997",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 1997 as part of NEC's P line, the P701 was built as a candybar handset.",
+    "fact": "One of NEC's releases from 1997.",
+    "specs": {
+      "display": "N/A",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "N/A",
+      "memory": "N/A",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "GSM",
+      "os": "N/A",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-3110",
+    "brand": "nokia",
+    "name": "3110",
+    "year": 1997,
+    "announced": "1997",
+    "released": "1997",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 1997 as part of Nokia's 3000 line, the 3110 was built as a candybar handset with a curved, ergonomic shape that became Nokia's signature silhouette.",
+    "fact": "Its curved 'banana' shape directly inspired the design of the 3210 that followed two years later.",
+    "specs": {
+      "display": "Monochrome LCD",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "None",
+      "memory": "N/A",
+      "connectivity": "None",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "GSM",
+      "os": "N/A",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "panasonic-eb-g500",
+    "brand": "panasonic",
+    "name": "EB-G500",
+    "year": 1997,
+    "announced": "1997",
+    "released": "1997",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 1997 as part of Panasonic's EB line, the EB-G500 was built as a candybar handset.",
+    "fact": "One of Panasonic's releases from 1997.",
+    "specs": {
+      "display": "N/A",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "N/A",
+      "memory": "N/A",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "GSM",
+      "os": "N/A",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "philips-spark",
+    "brand": "philips",
+    "name": "Spark",
+    "year": 1997,
+    "announced": "1997",
+    "released": "1997",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 1997, the Spark was built as a candybar handset.",
+    "fact": "One of Philips's releases from 1997.",
+    "specs": {
+      "display": "N/A",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "N/A",
+      "memory": "N/A",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "GSM",
+      "os": "N/A",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "sagem-mc-825",
+    "brand": "sagem",
+    "name": "MC 825",
+    "year": 1997,
+    "announced": "1997",
+    "released": "1997",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 1997 as part of Sagem's MC line, the MC 825 was built as a candybar handset.",
+    "fact": "One of Sagem's releases from 1997.",
+    "specs": {
+      "display": "N/A",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "N/A",
+      "memory": "N/A",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "GSM",
+      "os": "N/A",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "siemens-s6",
+    "brand": "siemens",
+    "name": "S6",
+    "year": 1997,
+    "announced": "1997",
+    "released": "1997",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 1997 as part of Siemens's S line, the S6 was built as a candybar handset.",
+    "fact": "One of Siemens's releases from 1997.",
+    "specs": {
+      "display": "N/A",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "N/A",
+      "memory": "N/A",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "GSM",
+      "os": "N/A",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "sony-cm-r111",
+    "brand": "sony",
+    "name": "CM-R111",
+    "year": 1997,
+    "announced": "1997",
+    "released": "1997",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 1997 as part of Sony's CM line, the CM-R111 was built as a candybar handset.",
+    "fact": "One of Sony's releases from 1997.",
+    "specs": {
+      "display": "N/A",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "N/A",
+      "memory": "N/A",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "GSM",
+      "os": "N/A",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-5110",
+    "brand": "nokia",
+    "name": "5110",
+    "year": 1998,
+    "announced": "1998",
+    "released": "1998",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 1998 as part of Nokia's 5000 line, the 5110 was built as a candybar handset running Series 20.",
+    "fact": "Popular durable phone.",
+    "specs": {
+      "display": "N/A",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "N/A",
+      "memory": "N/A",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "GSM",
+      "os": "Series 20",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-5190",
+    "brand": "nokia",
+    "name": "5190",
+    "year": 1998,
+    "announced": "1998",
+    "released": "1998",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 1998 as part of Nokia's 5000 line, the 5190 was built as a candybar handset, essentially a rebadged 5110 tailored for the North American market.",
+    "fact": "It was largely the same phone as the 5110, resold under a different model number for US carriers.",
+    "specs": {
+      "display": "Monochrome LCD",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "None",
+      "memory": "N/A",
+      "connectivity": "None",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "GSM",
+      "os": "Series 20",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-6110",
+    "brand": "nokia",
+    "name": "6110",
+    "year": 1998,
+    "announced": "1998",
+    "released": "1998",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 1998 as part of Nokia's 6000 line, the 6110 was built as a candybar handset running Series 20.",
+    "fact": "It was later followed by the 6150.",
+    "specs": {
+      "display": "N/A",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "N/A",
+      "memory": "N/A",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "GSM",
+      "os": "Series 20",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-6150",
+    "brand": "nokia",
+    "name": "6150",
+    "year": 1998,
+    "announced": "1998",
+    "released": "1998",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 1998 as part of Nokia's 6000 line, the 6150 was built as a candybar handset running Series 20.",
+    "fact": "Dual-band GSM.",
+    "specs": {
+      "display": "N/A",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "N/A",
+      "memory": "N/A",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "GSM",
+      "os": "Series 20",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-6160",
+    "brand": "nokia",
+    "name": "6160",
+    "year": 1998,
+    "announced": "1998",
+    "released": "1998",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 1998 as part of Nokia's 6100 line, the 6160 was built as a candybar handset, a CDMA variant sold to North American carriers that hadn't adopted GSM.",
+    "fact": "It let Nokia compete on carriers like Verizon and Sprint that ran CDMA networks rather than GSM.",
+    "specs": {
+      "display": "Monochrome LCD",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "None",
+      "memory": "N/A",
+      "connectivity": "None",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "CDMA",
+      "os": "N/A",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-9110-communicator",
+    "brand": "nokia",
+    "name": "9110 Communicator",
+    "year": 1998,
+    "announced": "1998",
+    "released": "1998",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "flip",
+    "desc": "Released in 1998 as part of Nokia's Communicator line, the 9110 Communicator was built as a flip phone, a refined successor to the original with a faster processor and friendlier interface.",
+    "fact": "It replaced the original 9000's DOS-like interface with a friendlier, icon-based one.",
+    "specs": {
+      "display": "Monochrome LCD",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "None",
+      "memory": "N/A",
+      "connectivity": "Infrared",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "GSM",
+      "os": "GEOS",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "ericsson-t10",
+    "brand": "ericsson",
+    "name": "T10",
+    "year": 1999,
+    "announced": "1999",
+    "released": "1999",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 1999 as part of Ericsson's T line, the T10 was built as a candybar handset.",
+    "fact": "One of Ericsson's releases from 1999.",
+    "specs": {
+      "display": "N/A",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "N/A",
+      "memory": "N/A",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "GSM",
+      "os": "N/A",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "motorola-timeport-p7389",
+    "brand": "motorola",
+    "name": "Timeport P7389",
+    "year": 1999,
+    "announced": "1999",
+    "released": "1999",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 1999 as part of Motorola's Timeport line, the Timeport P7389 was built as a candybar handset.",
+    "fact": "One of Motorola's releases from 1999.",
+    "specs": {
+      "display": "N/A",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "N/A",
+      "memory": "N/A",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "GSM",
+      "os": "N/A",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-3210",
+    "brand": "nokia",
+    "name": "3210",
+    "year": 1999,
+    "announced": "March 1999",
+    "released": "March 1999",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 1999 as part of Nokia's 3000 line, the 3210 was built as a candybar handset running Series 20.",
+    "fact": "Internal antenna.",
+    "specs": {
+      "display": "N/A",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "N/A",
+      "memory": "N/A",
+      "connectivity": "N/A",
+      "dimensions": "151 g",
+      "weight": "N/A",
+      "network": "GSM",
+      "os": "Series 20",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-5210",
+    "brand": "nokia",
+    "name": "5210",
+    "year": 1999,
+    "announced": "1999",
+    "released": "1999",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 1999 as part of Nokia's 5000 line, the 5210 was built as a candybar handset with a rugged, rubberized shell aimed at outdoor use rather than the office.",
+    "fact": "Its dust- and shock-resistant casing made it one of Nokia's first phones marketed specifically for active, outdoor use.",
+    "specs": {
+      "display": "Monochrome LCD",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "None",
+      "memory": "N/A",
+      "connectivity": "Infrared",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "GSM",
+      "os": "Series 20",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-7110",
+    "brand": "nokia",
+    "name": "7110",
+    "year": 1999,
+    "announced": "October 1999",
+    "released": "October 1999",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "slider",
+    "desc": "Released in 1999 as part of Nokia's 7000 line, the 7110 was built as a slider phone running Symbian.",
+    "fact": "First WAP phone.",
+    "specs": {
+      "display": "N/A",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "N/A",
+      "memory": "N/A",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "GSM",
+      "os": "Symbian",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-8210",
+    "brand": "nokia",
+    "name": "8210",
+    "year": 1999,
+    "announced": "1999",
+    "released": "1999",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 1999 as part of Nokia's 8000 line, the 8210 was built as a candybar handset running Series 20.",
+    "fact": "One of Nokia's releases from 1999.",
+    "specs": {
+      "display": "N/A",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "N/A",
+      "memory": "N/A",
+      "connectivity": "N/A",
+      "dimensions": "79 g",
+      "weight": "N/A",
+      "network": "GSM",
+      "os": "Series 20",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-8850",
+    "brand": "nokia",
+    "name": "8850",
+    "year": 1999,
+    "announced": "1999",
+    "released": "1999",
+    "price": "N/A",
+    "colors": [
+      "Titanium"
+    ],
+    "shape": "slider",
+    "desc": "Released in 1999 as part of Nokia's 8000 line, the 8850 was built as a slider phone, titanium-coated and aimed at executives who wanted their phone to feel like a luxury object.",
+    "fact": "Its metal slide cover used a scissor mechanism engineered to withstand tens of thousands of open-close cycles.",
+    "specs": {
+      "display": "Monochrome LCD",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "None",
+      "memory": "N/A",
+      "connectivity": "Infrared",
+      "dimensions": "N/A",
+      "weight": "84 g",
+      "network": "GSM",
+      "os": "Series 20",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "samsung-sgh-600",
+    "brand": "samsung",
+    "name": "SGH-600",
+    "year": 1999,
+    "announced": "1999",
+    "released": "1999",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "flip",
+    "desc": "Released in 1999 as part of Samsung's SGH line, the SGH-600 was built as a flip phone.",
+    "fact": "One of Samsung's releases from 1999.",
+    "specs": {
+      "display": "N/A",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "N/A",
+      "memory": "N/A",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "GSM",
+      "os": "N/A",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "siemens-c25",
+    "brand": "siemens",
+    "name": "C25",
+    "year": 1999,
+    "announced": "1999",
+    "released": "1999",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 1999 as part of Siemens's C line, the C25 was built as a candybar handset.",
+    "fact": "One of Siemens's releases from 1999.",
+    "specs": {
+      "display": "N/A",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "N/A",
+      "memory": "N/A",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "GSM",
+      "os": "N/A",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "ericsson-r380",
+    "brand": "ericsson",
+    "name": "R380",
+    "year": 2000,
+    "announced": "November 2000",
+    "released": "November 2000",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "touch",
+    "desc": "Released in 2000 as part of Ericsson's R line, the R380 was built as a touchscreen phone running Symbian.",
+    "fact": "First Symbian smartphone.",
+    "specs": {
+      "display": "N/A",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "N/A",
+      "memory": "N/A",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "GSM",
+      "os": "Symbian",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "motorola-accompli-008",
+    "brand": "motorola",
+    "name": "Accompli 008",
+    "year": 2000,
+    "announced": "2000",
+    "released": "2000",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 2000 as part of Motorola's Accompli line, the Accompli 008 was built as a full-keyboard messaging phone.",
+    "fact": "One of Motorola's releases from 2000.",
+    "specs": {
+      "display": "N/A",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "N/A",
+      "memory": "N/A",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "GSM",
+      "os": "N/A",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "motorola-v2288",
+    "brand": "motorola",
+    "name": "V2288",
+    "year": 2000,
+    "announced": "2000",
+    "released": "2000",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "flip",
+    "desc": "Released in 2000 as part of Motorola's V line, the V2288 was built as a flip phone.",
+    "fact": "One of Motorola's releases from 2000.",
+    "specs": {
+      "display": "N/A",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "N/A",
+      "memory": "N/A",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "GSM",
+      "os": "N/A",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-3310",
+    "brand": "nokia",
+    "name": "3310",
+    "year": 2000,
+    "announced": "September 2000",
+    "released": "September 2000",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 2000 as part of Nokia's 3000 line, the 3310 was built as a candybar handset running Series 20.",
+    "fact": "Iconic model.",
+    "specs": {
+      "display": "N/A",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "N/A",
+      "memory": "N/A",
+      "connectivity": "N/A",
+      "dimensions": "133 g",
+      "weight": "N/A",
+      "network": "GSM",
+      "os": "Series 20",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-3330",
+    "brand": "nokia",
+    "name": "3330",
+    "year": 2000,
+    "announced": "2000",
+    "released": "2000",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 2000 as part of Nokia's 3000 line, the 3330 was built as a candybar handset, a close sibling to the 3310 with WAP browsing and downloadable Java-based games added on top.",
+    "fact": "It let owners download simple games over WAP, an early ancestor of the app store.",
+    "specs": {
+      "display": "Monochrome LCD, 84x48px",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "None",
+      "memory": "250 numbers",
+      "connectivity": "Infrared",
+      "dimensions": "N/A",
+      "weight": "133 g",
+      "network": "GSM",
+      "os": "Series 20",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-6210",
+    "brand": "nokia",
+    "name": "6210",
+    "year": 2000,
+    "announced": "2000",
+    "released": "2000",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 2000 as part of Nokia's 6000 line, the 6210 was built as a candybar handset with WAP browsing and a built-in calendar, aimed at the road warriors of the early mobile-office era.",
+    "fact": "It was one of the first Nokia phones to make a built-in vibrating alert a standard feature.",
+    "specs": {
+      "display": "Monochrome LCD, graphical",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "None",
+      "memory": "500 numbers",
+      "connectivity": "Infrared",
+      "dimensions": "N/A",
+      "weight": "104 g",
+      "network": "GSM",
+      "os": "Series 20",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "samsung-sgh-n100",
+    "brand": "samsung",
+    "name": "SGH-N100",
+    "year": 2000,
+    "announced": "2000",
+    "released": "2000",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 2000 as part of Samsung's SGH line, the SGH-N100 was built as a candybar handset.",
+    "fact": "One of Samsung's releases from 2000.",
+    "specs": {
+      "display": "N/A",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "N/A",
+      "memory": "N/A",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "GSM",
+      "os": "N/A",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "samsung-sph-m100",
+    "brand": "samsung",
+    "name": "SPH-M100",
+    "year": 2000,
+    "announced": "2000",
+    "released": "2000",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 2000 as part of Samsung's UpRoar line, the SPH-M100 was built as a candybar handset.",
+    "fact": "First MP3 phone.",
+    "specs": {
+      "display": "N/A",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "N/A",
+      "memory": "N/A",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "CDMA",
+      "os": "N/A",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "sony-cmd-z5",
+    "brand": "sony",
+    "name": "CMD-Z5",
+    "year": 2000,
+    "announced": "2000",
+    "released": "2000",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 2000 as part of Sony's CMD line, the CMD-Z5 was built as a candybar handset.",
+    "fact": "One of Sony's releases from 2000.",
+    "specs": {
+      "display": "N/A",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "N/A",
+      "memory": "N/A",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "GSM",
+      "os": "N/A",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-6310",
+    "brand": "nokia",
+    "name": "6310",
+    "year": 2001,
+    "announced": "2001",
+    "released": "2001",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 2001 as part of Nokia's 6000 line, the 6310 was built as a candybar handset renowned for its keypad feel, signal reception and battery life.",
+    "fact": "Its reputation for reliability made it a cult favorite that secondhand units still traded for years after production ended.",
+    "specs": {
+      "display": "Monochrome LCD",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "None",
+      "memory": "N/A",
+      "connectivity": "Infrared",
+      "dimensions": "N/A",
+      "weight": "133 g",
+      "network": "GSM",
+      "os": "Series 20",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-8250",
+    "brand": "nokia",
+    "name": "8250",
+    "year": 2001,
+    "announced": "2001",
+    "released": "2001",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 2001 as part of Nokia's 8000 line, the 8250 was built as a candybar handset, a slimmer, lighter follow-up to the 8210 with a sharper accented cover.",
+    "fact": "It kept the 8210's tiny form factor while trimming even more weight off the body.",
+    "specs": {
+      "display": "Monochrome LCD",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "None",
+      "memory": "N/A",
+      "connectivity": "Infrared",
+      "dimensions": "N/A",
+      "weight": "79 g",
+      "network": "GSM",
+      "os": "Series 20",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "siemens-me45",
+    "brand": "siemens",
+    "name": "ME45",
+    "year": 2001,
+    "announced": "2001",
+    "released": "2001",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 2001 as part of Siemens's ME line, the ME45 was built as a candybar handset.",
+    "fact": "Rugged.",
+    "specs": {
+      "display": "N/A",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "N/A",
+      "memory": "N/A",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "GSM",
+      "os": "N/A",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "sony-t68",
+    "brand": "sony",
+    "name": "T68",
+    "year": 2001,
+    "announced": "2001",
+    "released": "2001",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 2001 as part of Sony Ericsson's T line, the T68 was built as a candybar handset.",
+    "fact": "It was later followed by the T68i.",
+    "specs": {
+      "display": "N/A",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "N/A",
+      "memory": "N/A",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "GSM",
+      "os": "N/A",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-6310i",
+    "brand": "nokia",
+    "name": "6310i",
+    "year": 2002,
+    "announced": "2002",
+    "released": "2002",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 2002 as part of Nokia's 6000 line, the 6310i was built as a candybar handset, a modest update to the 6310 adding Bluetooth and a slightly larger screen.",
+    "fact": "It added Bluetooth to the 6310's winning formula without changing much else.",
+    "specs": {
+      "display": "Monochrome LCD",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "None",
+      "memory": "N/A",
+      "connectivity": "Bluetooth, Infrared",
+      "dimensions": "N/A",
+      "weight": "135 g",
+      "network": "GSM",
+      "os": "Series 20",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-7650",
+    "brand": "nokia",
+    "name": "7650",
+    "year": 2002,
+    "announced": "2002",
+    "released": "2002",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "slider",
+    "desc": "Released in 2002 as part of Nokia's 7000 line, the 7650 was built as a slider phone — Nokia's first with a built-in camera and the debut device for the new Symbian Series 60 platform.",
+    "fact": "It was the first Nokia phone with a built-in camera and the debut device for the Symbian S60 platform.",
+    "specs": {
+      "display": "Color TFT",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "VGA",
+      "memory": "N/A",
+      "connectivity": "Infrared",
+      "dimensions": "N/A",
+      "weight": "154 g",
+      "network": "GSM",
+      "os": "Symbian S60",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "panasonic-gd87",
+    "brand": "panasonic",
+    "name": "GD87",
+    "year": 2002,
+    "announced": "2002",
+    "released": "2002",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "flip",
+    "desc": "Released in 2002 as part of Panasonic's GD line, the GD87 was built as a clamshell phone.",
+    "fact": "Camera phone.",
+    "specs": {
+      "display": "N/A",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "N/A",
+      "memory": "N/A",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "GSM",
+      "os": "N/A",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "sagem-my-x-5",
+    "brand": "sagem",
+    "name": "MY X-5",
+    "year": 2002,
+    "announced": "2002",
+    "released": "2002",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 2002 as part of Sagem's MY line, the MY X-5 was built as a candybar handset.",
+    "fact": "One of Sagem's releases from 2002.",
+    "specs": {
+      "display": "N/A",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "N/A",
+      "memory": "N/A",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "GSM",
+      "os": "N/A",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "sony-t68i",
+    "brand": "sony",
+    "name": "T68i",
+    "year": 2002,
+    "announced": "2002",
+    "released": "2002",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 2002 as part of Sony Ericsson's T line, the T68i was built as a candybar handset.",
+    "fact": "Color display.",
+    "specs": {
+      "display": "N/A",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "N/A",
+      "memory": "N/A",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "GSM",
+      "os": "N/A",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-1100",
+    "brand": "nokia",
+    "name": "1100",
+    "year": 2003,
+    "announced": "Aug 2003",
+    "released": "Aug 2003",
+    "price": "$100",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 2003, the 1100 was built as a candybar handset running Series 30.",
+    "fact": "Best-selling phone.",
+    "specs": {
+      "display": "N/A",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "N/A",
+      "memory": "N/A",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "86 g",
+      "network": "GSM · Mini-SIM",
+      "os": "Series 30",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-3650",
+    "brand": "nokia",
+    "name": "3650",
+    "year": 2003,
+    "announced": "2003",
+    "released": "2003",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 2003 as part of Nokia's 3000 line, the 3650 was built as a candybar handset with an unusual circular, rotating keypad arranged around the navigation key.",
+    "fact": "Its circular keypad layout was so unusual that some carriers offered a conventional keypad cover as an accessory.",
+    "specs": {
+      "display": "Color TFT",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "VGA",
+      "memory": "N/A",
+      "connectivity": "Bluetooth, Infrared",
+      "dimensions": "N/A",
+      "weight": "130 g",
+      "network": "GSM",
+      "os": "Symbian S60",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-6600",
+    "brand": "nokia",
+    "name": "6600",
+    "year": 2003,
+    "announced": "October 2003",
+    "released": "October 2003",
+    "price": "$600",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 2003 as part of Nokia's 6000 line, the 6600 was built as a candybar handset running Symbian S60.",
+    "fact": "Smartphone.",
+    "specs": {
+      "display": "2.1\"",
+      "processor": "N/A",
+      "battery": "850 mAh",
+      "camera": "VGA",
+      "memory": "6 MB RAM + 6 MB storage",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "122 g",
+      "network": "GSM · Mini-SIM",
+      "os": "Symbian S60",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-n-gage",
+    "brand": "nokia",
+    "name": "N-Gage",
+    "year": 2003,
+    "announced": "October 2003",
+    "released": "October 2003",
+    "price": "$300",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 2003, the N-Gage was built as a candybar handset running Symbian S60.",
+    "fact": "Gaming phone.",
+    "specs": {
+      "display": "2.1\"",
+      "processor": "N/A",
+      "battery": "850 mAh",
+      "camera": "VGA",
+      "memory": "4 MB RAM + 3.4 MB storage",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "137 g",
+      "network": "GSM · Mini-SIM",
+      "os": "Symbian S60",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "samsung-sgh-e700",
+    "brand": "samsung",
+    "name": "SGH-E700",
+    "year": 2003,
+    "announced": "2003",
+    "released": "2003",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "flip",
+    "desc": "Released in 2003 as part of Samsung's E line, the SGH-E700 was built as a flip phone running Proprietary.",
+    "fact": "One of Samsung's releases from 2003.",
+    "specs": {
+      "display": "N/A",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "VGA",
+      "memory": "N/A",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "N/A",
+      "os": "Proprietary",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "blackberry-7290",
+    "brand": "blackberry",
+    "name": "7290",
+    "year": 2004,
+    "announced": "2004",
+    "released": "2004",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 2004 as part of BlackBerry's 7000 line, the 7290 was built as a full-keyboard messaging phone running BlackBerry OS.",
+    "fact": "One of BlackBerry's releases from 2004.",
+    "specs": {
+      "display": "N/A",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "N/A",
+      "memory": "N/A",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "GSM · Mini-SIM",
+      "os": "BlackBerry OS",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "motorola-razr-v3",
+    "brand": "motorola",
+    "name": "RAZR V3",
+    "year": 2004,
+    "announced": "July 2004",
+    "released": "July 2004",
+    "price": "$500",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "flip",
+    "desc": "Released in 2004 as part of Motorola's RAZR line, the RAZR V3 was built as a flip phone running Motorola OS.",
+    "fact": "Iconic flip phone.",
+    "specs": {
+      "display": "2.2\"",
+      "processor": "N/A",
+      "battery": "680 mAh",
+      "camera": "VGA",
+      "memory": "N/A",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "95 g",
+      "network": "GSM · Mini-SIM",
+      "os": "Motorola OS",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-6230",
+    "brand": "nokia",
+    "name": "6230",
+    "year": 2004,
+    "announced": "2004",
+    "released": "2004",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 2004 as part of Nokia's 6000 line, the 6230 was built as a candybar handset with a memory card slot, Bluetooth, and a camera that convinced a lot of people they didn't need anything fancier.",
+    "fact": "It was one of the first mainstream Nokia phones to support memory expansion via an RS-MMC card.",
+    "specs": {
+      "display": "Color TFT, 128x128px",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "0.3 MP",
+      "memory": "6 MB + RS-MMC slot",
+      "connectivity": "Bluetooth, Infrared",
+      "dimensions": "N/A",
+      "weight": "97 g",
+      "network": "GSM",
+      "os": "N/A",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-7280",
+    "brand": "nokia",
+    "name": "7280",
+    "year": 2004,
+    "announced": "2004",
+    "released": "2004",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "slider",
+    "desc": "Released in 2004 as part of Nokia's 7000 line, the 7280 was built as a slider phone, a fashion-first 'lipstick phone' with no visible keypad at all.",
+    "fact": "It had no visible numeric keypad; dialing meant scrolling to a contact's name instead of typing digits.",
+    "specs": {
+      "display": "Color TFT, 208x104px",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "0.3 MP",
+      "memory": "32 MB internal",
+      "connectivity": "Bluetooth",
+      "dimensions": "N/A",
+      "weight": "92 g",
+      "network": "GSM",
+      "os": "N/A",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-n-gage-qd",
+    "brand": "nokia",
+    "name": "N-Gage QD",
+    "year": 2004,
+    "announced": "2004",
+    "released": "2004",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 2004 as part of Nokia's N-Gage line, the N-Gage QD was built as a candybar handset, a redesigned, more phone-shaped follow-up fixing the original N-Gage's most mocked flaws.",
+    "fact": "It moved the cartridge slot so games could be swapped without removing the battery, fixing the original N-Gage's most-mocked flaw.",
+    "specs": {
+      "display": "Color TFT",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "None",
+      "memory": "N/A",
+      "connectivity": "Bluetooth, Infrared",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "GSM",
+      "os": "Symbian S60",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "palm-treo-650",
+    "brand": "palm",
+    "name": "Treo 650",
+    "year": 2004,
+    "announced": "2004",
+    "released": "2004",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 2004 as part of Palm's Treo line, the Treo 650 was built as a full-keyboard messaging phone running Palm OS.",
+    "fact": "One of Palm's releases from 2004.",
+    "specs": {
+      "display": "N/A",
+      "processor": "N/A",
+      "battery": "1800 mAh",
+      "camera": "VGA",
+      "memory": "N/A",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "178 g",
+      "network": "GSM · Mini-SIM",
+      "os": "Palm OS",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "samsung-sgh-d500",
+    "brand": "samsung",
+    "name": "SGH-D500",
+    "year": 2004,
+    "announced": "2004",
+    "released": "2004",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "slider",
+    "desc": "Released in 2004 as part of Samsung's D line, the SGH-D500 was built as a slider phone running Proprietary.",
+    "fact": "One of Samsung's releases from 2004.",
+    "specs": {
+      "display": "1.8\"",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "1.3 MP",
+      "memory": "96 MB RAM",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "99 g",
+      "network": "N/A",
+      "os": "Proprietary",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "sony-p910",
+    "brand": "sony",
+    "name": "P910",
+    "year": 2004,
+    "announced": "2004",
+    "released": "2004",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "slider",
+    "desc": "Released in 2004 as part of Sony Ericsson's P line, the P910 was built as a touchscreen phone with a slide-out keyboard running Symbian UIQ.",
+    "fact": "It was later followed by the P900.",
+    "specs": {
+      "display": "2.9\"",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "VGA",
+      "memory": "64 MB RAM",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "N/A",
+      "os": "Symbian UIQ",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "blackberry-8700",
+    "brand": "blackberry",
+    "name": "8700",
+    "year": 2005,
+    "announced": "2005",
+    "released": "2005",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 2005, the 8700 was built as a full-keyboard messaging phone running BlackBerry OS.",
+    "fact": "It was later followed by the 7290.",
+    "specs": {
+      "display": "N/A",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "N/A",
+      "memory": "N/A",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "GSM · Mini-SIM",
+      "os": "BlackBerry OS",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-1110",
+    "brand": "nokia",
+    "name": "1110",
+    "year": 2005,
+    "announced": "2005",
+    "released": "2005",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 2005 as part of Nokia's 1000 line, the 1110 was built as a candybar handset, an ultra-basic, ultra-affordable phone for first-time buyers in emerging markets.",
+    "fact": "Along with the 1100, it's frequently cited among the best-selling electronic devices ever made.",
+    "specs": {
+      "display": "Monochrome LCD",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "None",
+      "memory": "N/A",
+      "connectivity": "None",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "GSM",
+      "os": "Series 30",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-6230i",
+    "brand": "nokia",
+    "name": "6230i",
+    "year": 2005,
+    "announced": "2005",
+    "released": "2005",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 2005 as part of Nokia's 6000 line, the 6230i was built as a candybar handset, a refined version of the 6230 with a better camera and redesigned menus.",
+    "fact": "It doubled the 6230's camera resolution while keeping the same familiar body.",
+    "specs": {
+      "display": "Color TFT",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "1.3 MP",
+      "memory": "N/A",
+      "connectivity": "Bluetooth, Infrared",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "GSM",
+      "os": "N/A",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-8800",
+    "brand": "nokia",
+    "name": "8800",
+    "year": 2005,
+    "announced": "2005",
+    "released": "2005",
+    "price": "N/A",
+    "colors": [
+      "Stainless Steel"
+    ],
+    "shape": "slider",
+    "desc": "Released in 2005 as part of Nokia's 8000 line, the 8800 was built as a slider phone, a stainless-steel luxury device priced and finished more like a watch than a phone.",
+    "fact": "Its stainless-steel and sapphire-crystal build was designed to survive daily wear the way fine jewelry does.",
+    "specs": {
+      "display": "Color TFT",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "1 MP",
+      "memory": "N/A",
+      "connectivity": "Bluetooth",
+      "dimensions": "N/A",
+      "weight": "134 g",
+      "network": "GSM",
+      "os": "Series 40",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-n70",
+    "brand": "nokia",
+    "name": "N70",
+    "year": 2005,
+    "announced": "2005",
+    "released": "2005",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 2005 as part of Nokia's N line, the N70 was built as a candybar handset running Symbian S60.",
+    "fact": "It was later followed by the N73.",
+    "specs": {
+      "display": "2.1\"",
+      "processor": "N/A",
+      "battery": "970 mAh",
+      "camera": "2 MP rear, VGA front",
+      "memory": "32 MB RAM + 22 MB storage",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "126 g",
+      "network": "3G · Mini-SIM",
+      "os": "Symbian S60",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-n91",
+    "brand": "nokia",
+    "name": "N91",
+    "year": 2005,
+    "announced": "2005",
+    "released": "2005",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "slider",
+    "desc": "Released in 2005 as part of Nokia's N line, the N91 was built as a slider phone, a music-focused device with a hard drive built in for carrying a real music collection.",
+    "fact": "It used a 4 GB hard drive rather than flash memory, a rare choice for a phone at the time.",
+    "specs": {
+      "display": "Color TFT",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "2 MP",
+      "memory": "4 GB (hard drive)",
+      "connectivity": "Wi-Fi, Bluetooth",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "GSM/3G",
+      "os": "Symbian S60",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "sony-k750i",
+    "brand": "sony",
+    "name": "K750i",
+    "year": 2005,
+    "announced": "2005",
+    "released": "2005",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 2005 as part of Sony Ericsson's K line, the K750i was built as a candybar handset running Proprietary.",
+    "fact": "It was later followed by the K800i.",
+    "specs": {
+      "display": "1.8\"",
+      "processor": "N/A",
+      "battery": "900 mAh",
+      "camera": "2 MP",
+      "memory": "38 MB RAM",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "99 g",
+      "network": "GSM · Mini-SIM",
+      "os": "Proprietary",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "sony-w800",
+    "brand": "sony",
+    "name": "W800",
+    "year": 2005,
+    "announced": "2005",
+    "released": "2005",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 2005 as part of Sony Ericsson's Walkman line, the W800 was built as a candybar handset running Proprietary.",
+    "fact": "First Walkman phone.",
+    "specs": {
+      "display": "1.8\"",
+      "processor": "N/A",
+      "battery": "900 mAh",
+      "camera": "2 MP",
+      "memory": "34 MB RAM",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "99 g",
+      "network": "GSM · Mini-SIM",
+      "os": "Proprietary",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "htc-tytn",
+    "brand": "htc",
+    "name": "TyTN",
+    "year": 2006,
+    "announced": "2006",
+    "released": "2006",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "slider",
+    "desc": "Released in 2006, the TyTN was built as a slide-out keyboard phone running Windows Mobile.",
+    "fact": "One of HTC's releases from 2006.",
+    "specs": {
+      "display": "2.8\"",
+      "processor": "N/A",
+      "battery": "1350 mAh",
+      "camera": "2 MP",
+      "memory": "64 MB RAM",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "176 g",
+      "network": "3G · Mini-SIM",
+      "os": "Windows Mobile",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "lg-kg800-chocolate",
+    "brand": "lg",
+    "name": "KG800 Chocolate",
+    "year": 2006,
+    "announced": "2006",
+    "released": "2006",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "slider",
+    "desc": "Released in 2006 as part of LG's Chocolate line, the KG800 Chocolate was built as a slider phone running Proprietary.",
+    "fact": "One of LG's releases from 2006.",
+    "specs": {
+      "display": "2.0\"",
+      "processor": "N/A",
+      "battery": "800 mAh",
+      "camera": "1.3 MP",
+      "memory": "N/A",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "83 g",
+      "network": "GSM · Mini-SIM",
+      "os": "Proprietary",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-1600",
+    "brand": "nokia",
+    "name": "1600",
+    "year": 2006,
+    "announced": "2006",
+    "released": "2006",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 2006 as part of Nokia's 1000 line, the 1600 was built as a candybar handset, a colorful, ultra-affordable update to Nokia's budget line.",
+    "fact": "It came in a range of bright colors specifically to appeal to younger first-time buyers.",
+    "specs": {
+      "display": "Monochrome LCD",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "None",
+      "memory": "N/A",
+      "connectivity": "None",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "GSM",
+      "os": "Series 30",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-e61",
+    "brand": "nokia",
+    "name": "E61",
+    "year": 2006,
+    "announced": "2006",
+    "released": "2006",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 2006 as part of Nokia's E line, the E61 was built as a full-keyboard messaging phone running Symbian S60.",
+    "fact": "Business phone.",
+    "specs": {
+      "display": "2.8\"",
+      "processor": "N/A",
+      "battery": "1500 mAh",
+      "camera": "N/A",
+      "memory": "64 MB RAM",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "144 g",
+      "network": "3G · Mini-SIM",
+      "os": "Symbian S60",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-n73",
+    "brand": "nokia",
+    "name": "N73",
+    "year": 2006,
+    "announced": "April 2006",
+    "released": "April 2006",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 2006 as part of Nokia's N line, the N73 was built as a candybar handset running Symbian S60.",
+    "fact": "Carl Zeiss camera.",
+    "specs": {
+      "display": "2.4\"",
+      "processor": "N/A",
+      "battery": "1100 mAh",
+      "camera": "3.2 MP rear, VGA front",
+      "memory": "64 MB RAM",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "116 g",
+      "network": "3G · Mini-SIM",
+      "os": "Symbian S60",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-n80",
+    "brand": "nokia",
+    "name": "N80",
+    "year": 2006,
+    "announced": "2006",
+    "released": "2006",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "slider",
+    "desc": "Released in 2006 as part of Nokia's N line, the N80 was built as a slider phone with a 3-megapixel camera and WiFi, part of Nokia's push to reposition its top-end phones as 'multimedia computers.'",
+    "fact": "It supported UPnP, letting it stream photos and video directly to compatible TVs and stereos.",
+    "specs": {
+      "display": "Color TFT",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "3 MP",
+      "memory": "N/A",
+      "connectivity": "Wi-Fi, Bluetooth",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "GSM/3G",
+      "os": "Symbian S60",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-n93",
+    "brand": "nokia",
+    "name": "N93",
+    "year": 2006,
+    "announced": "2006",
+    "released": "2006",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "flip",
+    "desc": "Released in 2006 as part of Nokia's N line, the N93 was built as a camcorder-styled phone with a twisting hinge that let the screen rotate into a video-recording grip.",
+    "fact": "Its swivel hinge let it fold flat into a handheld camcorder shape for shooting video.",
+    "specs": {
+      "display": "Color TFT",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "3.2 MP",
+      "memory": "N/A",
+      "connectivity": "Wi-Fi, Bluetooth",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "GSM/3G",
+      "os": "Symbian S60",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "sony-w810",
+    "brand": "sony",
+    "name": "W810",
+    "year": 2006,
+    "announced": "2006",
+    "released": "2006",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 2006 as part of Sony Ericsson's Walkman line, the W810 was built as a candybar handset running Proprietary.",
+    "fact": "It followed the W800 in Sony Ericsson's lineup.",
+    "specs": {
+      "display": "1.9\"",
+      "processor": "N/A",
+      "battery": "900 mAh",
+      "camera": "2 MP",
+      "memory": "20 MB RAM",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "99 g",
+      "network": "GSM · Mini-SIM",
+      "os": "Proprietary",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "apple-iphone",
+    "brand": "apple",
+    "name": "iPhone",
+    "year": 2007,
+    "announced": "Jun 2007",
+    "released": "Jun 2007",
+    "price": "$499",
+    "colors": [
+      "Black"
+    ],
+    "shape": "touch",
+    "desc": "Released in 2007, the iPhone was built as a touchscreen slab running iPhone OS.",
+    "fact": "First iPhone.",
+    "specs": {
+      "display": "3.5\"",
+      "processor": "Samsung S5L8900",
+      "battery": "1400 mAh",
+      "camera": "2 MP",
+      "memory": "128 MB RAM + 4/8/16 GB storage",
+      "connectivity": "N/A",
+      "dimensions": "115×61×11.6 mm",
+      "weight": "135 g",
+      "network": "EDGE · Mini-SIM",
+      "os": "iPhone OS",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-5310-xpressmusic",
+    "brand": "nokia",
+    "name": "5310 XpressMusic",
+    "year": 2007,
+    "announced": "2007",
+    "released": "2007",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 2007 as part of Nokia's 5000 line, the 5310 XpressMusic was built as a slim, music-branded candybar with dedicated playback controls on its edge.",
+    "fact": "Dedicated music controls on the side let you skip tracks without ever opening the phone.",
+    "specs": {
+      "display": "Color TFT",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "2 MP",
+      "memory": "microSD slot",
+      "connectivity": "Bluetooth",
+      "dimensions": "N/A",
+      "weight": "71 g",
+      "network": "GSM",
+      "os": "Series 40",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-6300",
+    "brand": "nokia",
+    "name": "6300",
+    "year": 2007,
+    "announced": "2007",
+    "released": "2007",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 2007 as part of Nokia's 6000 line, the 6300 was built as a slim, all-metal candybar that became one of Nokia's best-selling phones simply by doing the basics extremely well.",
+    "fact": "Its slim, all-metal design and modest price made it one of the best-selling Nokia phones of its era.",
+    "specs": {
+      "display": "Color TFT",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "2 MP",
+      "memory": "microSD slot",
+      "connectivity": "Bluetooth",
+      "dimensions": "N/A",
+      "weight": "94 g",
+      "network": "GSM",
+      "os": "Series 40",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-n95",
+    "brand": "nokia",
+    "name": "N95",
+    "year": 2007,
+    "announced": "March 2007",
+    "released": "March 2007",
+    "price": "$550",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "slider",
+    "desc": "Released in 2007 as part of Nokia's N line, the N95 was built as a slider phone running Symbian S60.",
+    "fact": "GPS & multimedia.",
+    "specs": {
+      "display": "2.6\"",
+      "processor": "N/A",
+      "battery": "950 mAh",
+      "camera": "5 MP rear, VGA front",
+      "memory": "64 MB RAM",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "120 g",
+      "network": "3G · Mini-SIM",
+      "os": "Symbian S60",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-n96",
+    "brand": "nokia",
+    "name": "N96",
+    "year": 2007,
+    "announced": "2007",
+    "released": "2007",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "slider",
+    "desc": "Released in 2007 as part of Nokia's N line, the N96 was built as a slider phone with a built-in kickstand for watching video, part of Nokia's later Nseries push before touchscreens took over.",
+    "fact": "It included a small flip-out stand specifically so the screen could prop itself up for watching video.",
+    "specs": {
+      "display": "Color TFT",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "5 MP",
+      "memory": "16 GB",
+      "connectivity": "Wi-Fi, Bluetooth, GPS",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "GSM/3G",
+      "os": "Symbian S60",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "samsung-u600",
+    "brand": "samsung",
+    "name": "U600",
+    "year": 2007,
+    "announced": "2007",
+    "released": "2007",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "slider",
+    "desc": "Released in 2007 as part of Samsung's U line, the U600 was built as a slider phone running Proprietary.",
+    "fact": "Ultra Edition.",
+    "specs": {
+      "display": "2.2\"",
+      "processor": "N/A",
+      "battery": "690 mAh",
+      "camera": "3.2 MP",
+      "memory": "60 MB RAM",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "81 g",
+      "network": "GSM · Mini-SIM",
+      "os": "Proprietary",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "apple-iphone-3g",
+    "brand": "apple",
+    "name": "iPhone 3G",
+    "year": 2008,
+    "announced": "Jul 2008",
+    "released": "Jul 2008",
+    "price": "N/A",
+    "colors": [
+      "Black/White"
+    ],
+    "shape": "touch",
+    "desc": "Released in 2008 as part of Apple's iPhone line, the iPhone 3G was built as a touchscreen slab running iPhone OS 2.",
+    "fact": "App Store era.",
+    "specs": {
+      "display": "3.5\"",
+      "processor": "Samsung S5L8900",
+      "battery": "1150 mAh",
+      "camera": "2 MP",
+      "memory": "128 MB RAM + 8/16 GB storage",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "133 g",
+      "network": "3G · Mini-SIM",
+      "os": "iPhone OS 2",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-5800-xpressmusic",
+    "brand": "nokia",
+    "name": "5800 XpressMusic",
+    "year": 2008,
+    "announced": "2008",
+    "released": "2008",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "touch",
+    "desc": "Released in 2008 as part of Nokia's 5000 line, the 5800 XpressMusic was Nokia's first touchscreen phone, nicknamed the 'tube,' arriving the same year as the App Store to compete with the iPhone on price.",
+    "fact": "It was Nokia's answer to the iPhone, undercutting it substantially on price while still offering a full touchscreen.",
+    "specs": {
+      "display": "3.2\" resistive touchscreen",
+      "processor": "N/A",
+      "battery": "1320 mAh",
+      "camera": "3.2 MP",
+      "memory": "microSD slot",
+      "connectivity": "Wi-Fi, Bluetooth, GPS",
+      "dimensions": "N/A",
+      "weight": "109 g",
+      "network": "GSM/3G",
+      "os": "Symbian S60",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-e71",
+    "brand": "nokia",
+    "name": "E71",
+    "year": 2008,
+    "announced": "2008",
+    "released": "2008",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 2008 as part of Nokia's E line, the E71 was built as a full-keyboard messaging phone, thin and all-metal, that became a favorite far beyond its intended office crowd.",
+    "fact": "Its slim metal body and keyboard feel made it popular well outside its original business-user target audience.",
+    "specs": {
+      "display": "Color TFT, 2.36\"",
+      "processor": "N/A",
+      "battery": "1500 mAh",
+      "camera": "3.2 MP",
+      "memory": "110 MB + microSD",
+      "connectivity": "Wi-Fi, Bluetooth, GPS",
+      "dimensions": "N/A",
+      "weight": "127 g",
+      "network": "GSM/3G",
+      "os": "Symbian S60",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "apple-iphone-3gs",
+    "brand": "apple",
+    "name": "iPhone 3GS",
+    "year": 2009,
+    "announced": "Jun 2009",
+    "released": "Jun 2009",
+    "price": "N/A",
+    "colors": [
+      "Black/White"
+    ],
+    "shape": "touch",
+    "desc": "Released in 2009 as part of Apple's iPhone line, the iPhone 3GS was built as a touchscreen slab running iPhone OS 3.",
+    "fact": "It followed the iPhone 3G in Apple's lineup.",
+    "specs": {
+      "display": "3.5\"",
+      "processor": "N/A",
+      "battery": "1219 mAh",
+      "camera": "3 MP",
+      "memory": "256 MB RAM + 8/16/32 GB storage",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "135 g",
+      "network": "3G · Mini-SIM",
+      "os": "iPhone OS 3",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "motorola-droid",
+    "brand": "motorola",
+    "name": "Droid",
+    "year": 2009,
+    "announced": "November 2009",
+    "released": "November 2009",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "slider",
+    "desc": "Released in 2009, the Droid was built as a slider phone running Android.",
+    "fact": "One of Motorola's releases from 2009.",
+    "specs": {
+      "display": "3.7\"",
+      "processor": "OMAP3430",
+      "battery": "1400 mAh",
+      "camera": "5 MP",
+      "memory": "256 MB RAM + 512 MB storage",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "169 g",
+      "network": "3G · Mini-SIM",
+      "os": "Android",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-n97",
+    "brand": "nokia",
+    "name": "N97",
+    "year": 2009,
+    "announced": "2009",
+    "released": "2009",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "slider",
+    "desc": "Released in 2009 as part of Nokia's N line, the N97 was built as a slider phone with a touchscreen and a slide-out physical keyboard, meant as Nokia's answer to the smartphone era it was starting to lose.",
+    "fact": "It was heavily marketed as Nokia's iPhone-fighter, though its software struggled to keep pace with iOS and Android.",
+    "specs": {
+      "display": "3.5\" resistive touchscreen",
+      "processor": "434 MHz ARM11",
+      "battery": "1500 mAh",
+      "camera": "5 MP",
+      "memory": "32 GB + microSD",
+      "connectivity": "Wi-Fi, Bluetooth, GPS",
+      "dimensions": "N/A",
+      "weight": "150 g",
+      "network": "GSM/3G",
+      "os": "Symbian S60",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "apple-iphone-4",
+    "brand": "apple",
+    "name": "iPhone 4",
+    "year": 2010,
+    "announced": "Jun 2010",
+    "released": "Jun 2010",
+    "price": "N/A",
+    "colors": [
+      "Black/White"
+    ],
+    "shape": "touch",
+    "desc": "Released in 2010 as part of Apple's iPhone line, the iPhone 4 was built as a touchscreen slab running iOS 4.",
+    "fact": "Retina Display.",
+    "specs": {
+      "display": "3.5\"",
+      "processor": "Apple A4",
+      "battery": "1420 mAh",
+      "camera": "5 MP rear, VGA front",
+      "memory": "512 MB RAM + 16/32 GB storage",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "137 g",
+      "network": "3G · Micro-SIM",
+      "os": "iOS 4",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "google-nexus-one",
+    "brand": "google",
+    "name": "Nexus One",
+    "year": 2010,
+    "announced": "January 2010",
+    "released": "January 2010",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "touch",
+    "desc": "Released in 2010 as part of Google's Nexus line, the Nexus One was built as a touchscreen slab running Android.",
+    "fact": "First Nexus.",
+    "specs": {
+      "display": "3.7\"",
+      "processor": "Snapdragon S1",
+      "battery": "1400 mAh",
+      "camera": "5 MP",
+      "memory": "512 MB RAM + 512 MB storage",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "130 g",
+      "network": "3G · Mini-SIM",
+      "os": "Android",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "htc-desire-hd",
+    "brand": "htc",
+    "name": "Desire HD",
+    "year": 2010,
+    "announced": "October 2010",
+    "released": "October 2010",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "touch",
+    "desc": "Released in 2010 as part of HTC's Desire line, the Desire HD was built as a touchscreen slab running Android.",
+    "fact": "One of HTC's releases from 2010.",
+    "specs": {
+      "display": "4.3\"",
+      "processor": "Snapdragon S2",
+      "battery": "1230 mAh",
+      "camera": "8 MP",
+      "memory": "768 MB RAM + 1.5 GB storage",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "164 g",
+      "network": "3G · Mini-SIM",
+      "os": "Android",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-c7",
+    "brand": "nokia",
+    "name": "C7",
+    "year": 2010,
+    "announced": "2010",
+    "released": "2010",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "touch",
+    "desc": "Released in 2010 as part of Nokia's C line, the C7 was built as a touchscreen slab with a stainless-steel frame, positioned as a more affordable sibling to the N8.",
+    "fact": "It shared its Symbian^3 platform and much of its camera hardware with the flagship N8 at a lower price.",
+    "specs": {
+      "display": "3.5\" AMOLED",
+      "processor": "N/A",
+      "battery": "1200 mAh",
+      "camera": "8 MP",
+      "memory": "8 GB + microSD",
+      "connectivity": "Wi-Fi, Bluetooth, GPS",
+      "dimensions": "N/A",
+      "weight": "130 g",
+      "network": "GSM/3G",
+      "os": "Symbian^3",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-e7",
+    "brand": "nokia",
+    "name": "E7",
+    "year": 2010,
+    "announced": "2010",
+    "released": "2010",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "slider",
+    "desc": "Released in 2010 as part of Nokia's E line, the E7 was built as a slider phone, a business communicator with a tilting slide-out keyboard beneath a large touchscreen.",
+    "fact": "Its hinge tilted the screen up rather than sliding flat, continuing the Communicator lineage in a modern shell.",
+    "specs": {
+      "display": "4\" AMOLED",
+      "processor": "N/A",
+      "battery": "1200 mAh",
+      "camera": "8 MP",
+      "memory": "16 GB",
+      "connectivity": "Wi-Fi, Bluetooth, GPS",
+      "dimensions": "N/A",
+      "weight": "176 g",
+      "network": "GSM/3G",
+      "os": "Symbian^3",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-n8",
+    "brand": "nokia",
+    "name": "N8",
+    "year": 2010,
+    "announced": "October 2010",
+    "released": "October 2010",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "touch",
+    "desc": "Released in 2010 as part of Nokia's N line, the N8 was built as a touchscreen slab running Symbian^3.",
+    "fact": "One of Nokia's releases from 2010.",
+    "specs": {
+      "display": "3.5\"",
+      "processor": "N/A",
+      "battery": "1200 mAh",
+      "camera": "12 MP",
+      "memory": "256 MB RAM + 16 GB storage",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "135 g",
+      "network": "3G · Micro-SIM",
+      "os": "Symbian^3",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "samsung-galaxy-s",
+    "brand": "samsung",
+    "name": "Galaxy S",
+    "year": 2010,
+    "announced": "June 2010",
+    "released": "June 2010",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "touch",
+    "desc": "Released in 2010, the Galaxy S was built as a touchscreen slab running Android.",
+    "fact": "It was later followed by the Galaxy S II.",
+    "specs": {
+      "display": "4.0\"",
+      "processor": "Hummingbird",
+      "battery": "1500 mAh",
+      "camera": "5 MP rear, VGA front",
+      "memory": "512 MB RAM + 8/16 GB storage",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "119 g",
+      "network": "3G · Mini-SIM",
+      "os": "Android",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "apple-iphone-4s",
+    "brand": "apple",
+    "name": "iPhone 4S",
+    "year": 2011,
+    "announced": "Oct 2011",
+    "released": "Oct 2011",
+    "price": "N/A",
+    "colors": [
+      "Black/White"
+    ],
+    "shape": "touch",
+    "desc": "Released in 2011 as part of Apple's iPhone line, the iPhone 4S was built as a touchscreen slab running iOS 5.",
+    "fact": "Siri.",
+    "specs": {
+      "display": "3.5\"",
+      "processor": "Apple A5",
+      "battery": "1432 mAh",
+      "camera": "8 MP rear, VGA front",
+      "memory": "512 MB RAM + 16/32/64 GB storage",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "140 g",
+      "network": "3G · Micro-SIM",
+      "os": "iOS 5",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "blackberry-bold-9900",
+    "brand": "blackberry",
+    "name": "Bold 9900",
+    "year": 2011,
+    "announced": "August 2011",
+    "released": "August 2011",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 2011 as part of BlackBerry's Bold line, the Bold 9900 was built as a full-keyboard messaging phone running BlackBerry OS 7.",
+    "fact": "One of BlackBerry's releases from 2011.",
+    "specs": {
+      "display": "2.8\"",
+      "processor": "N/A",
+      "battery": "1230 mAh",
+      "camera": "5 MP",
+      "memory": "768 MB RAM + 8 GB storage",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "130 g",
+      "network": "3G · Mini-SIM",
+      "os": "BlackBerry OS 7",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "google-galaxy-nexus",
+    "brand": "google",
+    "name": "Galaxy Nexus",
+    "year": 2011,
+    "announced": "November 2011",
+    "released": "November 2011",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "touch",
+    "desc": "Released in 2011 as part of Google's Nexus line, the Galaxy Nexus was built as a touchscreen slab running Android.",
+    "fact": "It was later followed by the Nexus 4.",
+    "specs": {
+      "display": "4.65\"",
+      "processor": "OMAP4460",
+      "battery": "1750 mAh",
+      "camera": "5 MP rear, 1.3 MP front",
+      "memory": "1 GB RAM + 16/32 GB storage",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "135 g",
+      "network": "3G · Micro-SIM",
+      "os": "Android",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-lumia-800",
+    "brand": "nokia",
+    "name": "Lumia 800",
+    "year": 2011,
+    "announced": "November 2011",
+    "released": "November 2011",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "touch",
+    "desc": "Released in 2011 as part of Nokia's Lumia line, the Lumia 800 was built as a touchscreen slab running Windows Phone.",
+    "fact": "It was later followed by the Lumia 900.",
+    "specs": {
+      "display": "3.7\"",
+      "processor": "Snapdragon S2",
+      "battery": "1450 mAh",
+      "camera": "8 MP",
+      "memory": "512 MB RAM + 16 GB storage",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "142 g",
+      "network": "3G · Micro-SIM",
+      "os": "Windows Phone",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "samsung-galaxy-note",
+    "brand": "samsung",
+    "name": "Galaxy Note",
+    "year": 2011,
+    "announced": "October 2011",
+    "released": "October 2011",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "touch",
+    "desc": "Released in 2011, the Galaxy Note was built as a touchscreen slab running Android.",
+    "fact": "First Note.",
+    "specs": {
+      "display": "5.3\"",
+      "processor": "Exynos 4210",
+      "battery": "2500 mAh",
+      "camera": "8 MP rear, 2 MP front",
+      "memory": "1 GB RAM + 16/32 GB storage",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "178 g",
+      "network": "3G · Mini-SIM",
+      "os": "Android",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "samsung-galaxy-s-ii",
+    "brand": "samsung",
+    "name": "Galaxy S II",
+    "year": 2011,
+    "announced": "April 2011",
+    "released": "April 2011",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "touch",
+    "desc": "Released in 2011 as part of Samsung's Galaxy S line, the Galaxy S II was built as a touchscreen slab running Android.",
+    "fact": "It followed the Galaxy S in Samsung's lineup.",
+    "specs": {
+      "display": "4.3\"",
+      "processor": "Exynos 4210",
+      "battery": "1650 mAh",
+      "camera": "8 MP rear, 2 MP front",
+      "memory": "1 GB RAM + 16/32 GB storage",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "116 g",
+      "network": "3G · Mini-SIM",
+      "os": "Android",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "apple-iphone-5",
+    "brand": "apple",
+    "name": "iPhone 5",
+    "year": 2012,
+    "announced": "Sep 2012",
+    "released": "Sep 2012",
+    "price": "N/A",
+    "colors": [
+      "Black/White"
+    ],
+    "shape": "touch",
+    "desc": "Released in 2012 as part of Apple's iPhone line, the iPhone 5 was built as a touchscreen slab running iOS 6.",
+    "fact": "It followed the iPhone 4S in Apple's lineup.",
+    "specs": {
+      "display": "4.0\"",
+      "processor": "Apple A6",
+      "battery": "1440 mAh",
+      "camera": "8 MP rear, 1.2 MP front",
+      "memory": "1 GB RAM + 16/32/64 GB storage",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "112 g",
+      "network": "LTE · Nano-SIM",
+      "os": "iOS 6",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "htc-one-x",
+    "brand": "htc",
+    "name": "One X",
+    "year": 2012,
+    "announced": "April 2012",
+    "released": "April 2012",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "touch",
+    "desc": "Released in 2012 as part of HTC's One line, the One X was built as a touchscreen slab running Android.",
+    "fact": "It was later followed by the One M7.",
+    "specs": {
+      "display": "4.7\"",
+      "processor": "Tegra 3",
+      "battery": "1800 mAh",
+      "camera": "8 MP rear, 1.3 MP front",
+      "memory": "1 GB RAM + 32 GB storage",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "130 g",
+      "network": "3G · Micro-SIM",
+      "os": "Android",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-808-pureview",
+    "brand": "nokia",
+    "name": "808 PureView",
+    "year": 2012,
+    "announced": "February 2012",
+    "released": "February 2012",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "touch",
+    "desc": "Released in 2012 as part of Nokia's PureView line, the 808 PureView was built as a touchscreen slab running Symbian Belle.",
+    "fact": "41 MP camera.",
+    "specs": {
+      "display": "4.0\"",
+      "processor": "N/A",
+      "battery": "1400 mAh",
+      "camera": "41 MP",
+      "memory": "512 MB RAM + 16 GB storage",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "169 g",
+      "network": "3G · Micro-SIM",
+      "os": "Symbian Belle",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-lumia-900",
+    "brand": "nokia",
+    "name": "Lumia 900",
+    "year": 2012,
+    "announced": "2012",
+    "released": "2012",
+    "price": "N/A",
+    "colors": [
+      "Cyan",
+      "Black",
+      "White"
+    ],
+    "shape": "touch",
+    "desc": "Released in 2012 as part of Nokia's Lumia line, the Lumia 900 was built as a touchscreen slab, a bright, single-color polycarbonate Windows Phone flagship heavily marketed in the US.",
+    "fact": "AT&T and Nokia ran one of the largest marketing campaigns ever for a Windows Phone device to launch it in the US.",
+    "specs": {
+      "display": "4.3\" AMOLED",
+      "processor": "1.4 GHz Snapdragon",
+      "battery": "1830 mAh",
+      "camera": "8 MP",
+      "memory": "16 GB",
+      "connectivity": "Wi-Fi, Bluetooth, GPS",
+      "dimensions": "N/A",
+      "weight": "160 g",
+      "network": "GSM/3G/4G",
+      "os": "Windows Phone",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-lumia-920",
+    "brand": "nokia",
+    "name": "Lumia 920",
+    "year": 2012,
+    "announced": "2012",
+    "released": "2012",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "touch",
+    "desc": "Released in 2012 as part of Nokia's Lumia line, the Lumia 920 was built as a touchscreen slab, a flagship Windows Phone with optical image stabilization and wireless charging built in from day one.",
+    "fact": "It was among the first phones to include wireless charging as a standard, built-in feature rather than an add-on case.",
+    "specs": {
+      "display": "4.5\" IPS LCD",
+      "processor": "1.5 GHz dual-core",
+      "battery": "2000 mAh",
+      "camera": "8.7 MP, optical image stabilization",
+      "memory": "32 GB",
+      "connectivity": "Wi-Fi, Bluetooth, NFC, GPS",
+      "dimensions": "N/A",
+      "weight": "185 g",
+      "network": "GSM/3G/4G",
+      "os": "Windows Phone 8",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "sony-xperia-s",
+    "brand": "sony",
+    "name": "Xperia S",
+    "year": 2012,
+    "announced": "March 2012",
+    "released": "March 2012",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "touch",
+    "desc": "Released in 2012 as part of Sony's Xperia line, the Xperia S was built as a touchscreen slab running Android.",
+    "fact": "One of Sony's releases from 2012.",
+    "specs": {
+      "display": "4.3\"",
+      "processor": "Snapdragon S3",
+      "battery": "1750 mAh",
+      "camera": "12 MP rear, 1.3 MP front",
+      "memory": "1 GB RAM + 32 GB storage",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "144 g",
+      "network": "3G · Micro-SIM",
+      "os": "Android",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "apple-iphone-5s",
+    "brand": "apple",
+    "name": "iPhone 5s",
+    "year": 2013,
+    "announced": "Sep 2013",
+    "released": "Sep 2013",
+    "price": "N/A",
+    "colors": [
+      "Space Gray/Gold/Silver"
+    ],
+    "shape": "modern",
+    "desc": "Released in 2013 as part of Apple's iPhone line, the iPhone 5s was built as a touchscreen slab running iOS 7.",
+    "fact": "First 64-bit smartphone.",
+    "specs": {
+      "display": "4.0\"",
+      "processor": "Apple A7",
+      "battery": "1560 mAh",
+      "camera": "8 MP rear, 1.2 MP front",
+      "memory": "1 GB RAM + 16/32/64 GB storage",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "112 g",
+      "network": "LTE · Nano-SIM",
+      "os": "iOS 7",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "lg-g2",
+    "brand": "lg",
+    "name": "G2",
+    "year": 2013,
+    "announced": "September 2013",
+    "released": "September 2013",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "modern",
+    "desc": "Released in 2013 as part of LG's G line, the G2 was built as a touchscreen slab running Android.",
+    "fact": "It was later followed by the G3.",
+    "specs": {
+      "display": "5.2\"",
+      "processor": "Snapdragon 800",
+      "battery": "3000 mAh",
+      "camera": "13 MP rear, 2.1 MP front",
+      "memory": "2 GB RAM + 16/32 GB storage",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "143 g",
+      "network": "LTE · Micro-SIM",
+      "os": "Android",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-lumia-1020",
+    "brand": "nokia",
+    "name": "Lumia 1020",
+    "year": 2013,
+    "announced": "Jul 2013",
+    "released": "2013",
+    "price": "$300 (subsidized)",
+    "colors": [
+      "Yellow",
+      "Black",
+      "White"
+    ],
+    "shape": "modern",
+    "desc": "Released in 2013 as part of Nokia's Lumia line, the Lumia 1020 was built as a touchscreen slab with an almost absurd 41-megapixel sensor bulging from its back — proof Nokia's imaging heritage hadn't gone anywhere, even as its platform lost the war.",
+    "fact": "Its 41 MP sensor remains one of the largest ever fitted to a phone, using oversampling to produce sharper standard photos.",
+    "specs": {
+      "display": "4.5\" AMOLED, 768x1280px",
+      "processor": "1.5 GHz dual-core",
+      "battery": "13 hr talk",
+      "camera": "41 MP, Carl Zeiss optics",
+      "memory": "32/64 GB",
+      "connectivity": "Wi-Fi, Bluetooth, NFC, GPS",
+      "dimensions": "130.4 x 71.4 x 10.2 mm",
+      "weight": "158 g",
+      "network": "GSM/3G/4G",
+      "os": "Windows Phone 8",
+      "package": "Handset, camera grip, charger, cable"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-lumia-1520",
+    "brand": "nokia",
+    "name": "Lumia 1520",
+    "year": 2013,
+    "announced": "2013",
+    "released": "2013",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "modern",
+    "desc": "Released in 2013 as part of Nokia's Lumia line, the Lumia 1520 was built as a touchscreen slab, Nokia's largest Windows Phone, a 6-inch phablet aimed at people who wanted a Lumia camera in a bigger screen.",
+    "fact": "At six inches, it was the biggest screen Nokia had ever put on a phone.",
+    "specs": {
+      "display": "6\" IPS LCD",
+      "processor": "2.2 GHz Snapdragon 800",
+      "battery": "3400 mAh",
+      "camera": "20 MP",
+      "memory": "32 GB + microSD",
+      "connectivity": "Wi-Fi, Bluetooth, NFC, GPS",
+      "dimensions": "N/A",
+      "weight": "209 g",
+      "network": "GSM/3G/4G",
+      "os": "Windows Phone 8",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-lumia-520",
+    "brand": "nokia",
+    "name": "Lumia 520",
+    "year": 2013,
+    "announced": "2013",
+    "released": "2013",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "touch",
+    "desc": "Released in 2013 as part of Nokia's Lumia line, the Lumia 520 was built as a touchscreen slab, a bargain-priced Windows Phone that undercut nearly everything else on the market.",
+    "fact": "It became the best-selling Windows Phone of all time, largely on the strength of its low price in emerging markets.",
+    "specs": {
+      "display": "4\" IPS LCD",
+      "processor": "1 GHz dual-core",
+      "battery": "1430 mAh",
+      "camera": "5 MP",
+      "memory": "8 GB + microSD",
+      "connectivity": "Wi-Fi, Bluetooth, GPS",
+      "dimensions": "N/A",
+      "weight": "124 g",
+      "network": "GSM/3G",
+      "os": "Windows Phone 8",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "samsung-galaxy-s4",
+    "brand": "samsung",
+    "name": "Galaxy S4",
+    "year": 2013,
+    "announced": "April 2013",
+    "released": "April 2013",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "modern",
+    "desc": "Released in 2013 as part of Samsung's Galaxy S line, the Galaxy S4 was built as a touchscreen slab running Android.",
+    "fact": "It was later followed by the Galaxy S5.",
+    "specs": {
+      "display": "5.0\"",
+      "processor": "Snapdragon 600",
+      "battery": "2600 mAh",
+      "camera": "13 MP rear, 2 MP front",
+      "memory": "2 GB RAM + 16/32/64 GB storage",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "130 g",
+      "network": "LTE · Micro-SIM",
+      "os": "Android",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "apple-iphone-6",
+    "brand": "apple",
+    "name": "iPhone 6",
+    "year": 2014,
+    "announced": "Sep 2014",
+    "released": "Sep 2014",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "modern",
+    "desc": "Released in 2014 as part of Apple's iPhone line, the iPhone 6 was built as a touchscreen slab running iOS 8.",
+    "fact": "It followed the iPhone 5s in Apple's lineup.",
+    "specs": {
+      "display": "4.7\"",
+      "processor": "Apple A8",
+      "battery": "1810 mAh",
+      "camera": "8 MP rear, 1.2 MP front",
+      "memory": "1 GB RAM + 16/64/128 GB storage",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "129 g",
+      "network": "LTE · Nano-SIM",
+      "os": "iOS 8",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "htc-one-m8",
+    "brand": "htc",
+    "name": "One M8",
+    "year": 2014,
+    "announced": "March 2014",
+    "released": "March 2014",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "modern",
+    "desc": "Released in 2014 as part of HTC's One line, the One M8 was built as a touchscreen slab running Android.",
+    "fact": "It was later followed by the One M9.",
+    "specs": {
+      "display": "5.0\"",
+      "processor": "Snapdragon 801",
+      "battery": "2600 mAh",
+      "camera": "4 MP UltraPixel rear, 5 MP front",
+      "memory": "2 GB RAM + 16/32 GB storage",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "160 g",
+      "network": "LTE · Nano-SIM",
+      "os": "Android",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-x",
+    "brand": "nokia",
+    "name": "X",
+    "year": 2014,
+    "announced": "2014",
+    "released": "2014",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "touch",
+    "desc": "Released in 2014 as part of Nokia's X line, the X was built as a touchscreen slab running a forked version of Android rather than Windows Phone, sold only months before Microsoft's acquisition closed.",
+    "fact": "It ran Android without Google's services, using Nokia's and Microsoft's own app store and services instead.",
+    "specs": {
+      "display": "4\" IPS LCD",
+      "processor": "1 GHz dual-core",
+      "battery": "1500 mAh",
+      "camera": "3 MP",
+      "memory": "4 GB + microSD",
+      "connectivity": "Wi-Fi, Bluetooth",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "GSM/3G",
+      "os": "Nokia X Software Platform (Android-based)",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "oneplus-one",
+    "brand": "oneplus",
+    "name": "One",
+    "year": 2014,
+    "announced": "April 2014",
+    "released": "April 2014",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "modern",
+    "desc": "Released in 2014, the One was built as a touchscreen slab running Android.",
+    "fact": "Flagship killer.",
+    "specs": {
+      "display": "5.5\"",
+      "processor": "Snapdragon 801",
+      "battery": "3100 mAh",
+      "camera": "13 MP rear, 5 MP front",
+      "memory": "3 GB RAM + 16/64 GB storage",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "162 g",
+      "network": "LTE · Micro-SIM",
+      "os": "Android",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "samsung-galaxy-s5",
+    "brand": "samsung",
+    "name": "Galaxy S5",
+    "year": 2014,
+    "announced": "April 2014",
+    "released": "April 2014",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "modern",
+    "desc": "Released in 2014 as part of Samsung's Galaxy S line, the Galaxy S5 was built as a touchscreen slab running Android.",
+    "fact": "It followed the Galaxy S4 in Samsung's lineup.",
+    "specs": {
+      "display": "5.1\"",
+      "processor": "Snapdragon 801",
+      "battery": "2800 mAh",
+      "camera": "16 MP rear, 2 MP front",
+      "memory": "2 GB RAM + 16/32 GB storage",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "145 g",
+      "network": "LTE · Micro-SIM",
+      "os": "Android",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "apple-iphone-6s",
+    "brand": "apple",
+    "name": "iPhone 6s",
+    "year": 2015,
+    "announced": "Sep 2015",
+    "released": "Sep 2015",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "modern",
+    "desc": "Released in 2015 as part of Apple's iPhone line, the iPhone 6s was built as a touchscreen slab running iOS 9.",
+    "fact": "3D Touch.",
+    "specs": {
+      "display": "4.7\"",
+      "processor": "Apple A9",
+      "battery": "1715 mAh",
+      "camera": "12 MP rear, 5 MP front",
+      "memory": "2 GB RAM + 16/64/128 GB storage",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "143 g",
+      "network": "LTE · Nano-SIM",
+      "os": "iOS 9",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-215",
+    "brand": "nokia",
+    "name": "215",
+    "year": 2015,
+    "announced": "2015",
+    "released": "2015",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 2015 as part of Nokia's 200 line, the 215 was built as a candybar handset, a basic feature phone released under Microsoft Mobile ownership for markets where affordability and battery life mattered most.",
+    "fact": "It was marketed with a battery life measured in weeks rather than hours, a selling point smartphones couldn't match.",
+    "specs": {
+      "display": "Monochrome LCD",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "None",
+      "memory": "N/A",
+      "connectivity": "Bluetooth",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "GSM",
+      "os": "Series 30+",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "samsung-galaxy-s6",
+    "brand": "samsung",
+    "name": "Galaxy S6",
+    "year": 2015,
+    "announced": "April 2015",
+    "released": "April 2015",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "modern",
+    "desc": "Released in 2015 as part of Samsung's Galaxy S line, the Galaxy S6 was built as a touchscreen slab running Android.",
+    "fact": "It followed the Galaxy S5 in Samsung's lineup.",
+    "specs": {
+      "display": "5.1\"",
+      "processor": "Exynos 7420",
+      "battery": "2550 mAh",
+      "camera": "16 MP rear, 5 MP front",
+      "memory": "3 GB RAM + 32/64/128 GB storage",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "138 g",
+      "network": "LTE · Nano-SIM",
+      "os": "Android",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "sony-xperia-z5",
+    "brand": "sony",
+    "name": "Xperia Z5",
+    "year": 2015,
+    "announced": "September 2015",
+    "released": "September 2015",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "modern",
+    "desc": "Released in 2015 as part of Sony's Xperia line, the Xperia Z5 was built as a touchscreen slab running Android.",
+    "fact": "It was later followed by the XZ.",
+    "specs": {
+      "display": "5.2\"",
+      "processor": "Snapdragon 810",
+      "battery": "2900 mAh",
+      "camera": "23 MP rear, 5.1 MP front",
+      "memory": "3 GB RAM + 32 GB storage",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "154 g",
+      "network": "LTE · Nano-SIM",
+      "os": "Android",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "apple-iphone-7",
+    "brand": "apple",
+    "name": "iPhone 7",
+    "year": 2016,
+    "announced": "Sep 2016",
+    "released": "Sep 2016",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "modern",
+    "desc": "Released in 2016 as part of Apple's iPhone line, the iPhone 7 was built as a touchscreen slab running iOS 10.",
+    "fact": "It followed the iPhone 6s in Apple's lineup.",
+    "specs": {
+      "display": "4.7\"",
+      "processor": "Apple A10",
+      "battery": "1960 mAh",
+      "camera": "12 MP rear, 7 MP front",
+      "memory": "2 GB RAM + 32/128/256 GB storage",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "138 g",
+      "network": "LTE · Nano-SIM",
+      "os": "iOS 10",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "google-pixel",
+    "brand": "google",
+    "name": "Pixel",
+    "year": 2016,
+    "announced": "October 2016",
+    "released": "October 2016",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "modern",
+    "desc": "Released in 2016, the Pixel was built as a touchscreen slab running Android.",
+    "fact": "First Pixel.",
+    "specs": {
+      "display": "5.0\"",
+      "processor": "Snapdragon 821",
+      "battery": "2770 mAh",
+      "camera": "12.3 MP rear, 8 MP front",
+      "memory": "4 GB RAM + 32/128 GB storage",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "143 g",
+      "network": "LTE · Nano-SIM",
+      "os": "Android",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "huawei-p9",
+    "brand": "huawei",
+    "name": "P9",
+    "year": 2016,
+    "announced": "April 2016",
+    "released": "April 2016",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "modern",
+    "desc": "Released in 2016 as part of Huawei's P line, the P9 was built as a touchscreen slab running Android.",
+    "fact": "Leica cameras.",
+    "specs": {
+      "display": "5.2\"",
+      "processor": "Kirin 955",
+      "battery": "3000 mAh",
+      "camera": "12 MP Dual rear, 8 MP front",
+      "memory": "3 GB RAM + 32 GB storage",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "144 g",
+      "network": "LTE · Nano-SIM",
+      "os": "Android",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "samsung-galaxy-s7",
+    "brand": "samsung",
+    "name": "Galaxy S7",
+    "year": 2016,
+    "announced": "March 2016",
+    "released": "March 2016",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "modern",
+    "desc": "Released in 2016 as part of Samsung's Galaxy S line, the Galaxy S7 was built as a touchscreen slab running Android.",
+    "fact": "It followed the Galaxy S6 in Samsung's lineup.",
+    "specs": {
+      "display": "5.1\"",
+      "processor": "Snapdragon 820",
+      "battery": "3000 mAh",
+      "camera": "12 MP rear, 5 MP front",
+      "memory": "4 GB RAM + 32/64 GB storage",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "152 g",
+      "network": "LTE · Nano-SIM",
+      "os": "Android",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "apple-iphone-x",
+    "brand": "apple",
+    "name": "iPhone X",
+    "year": 2017,
+    "announced": "Nov 2017",
+    "released": "Nov 2017",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "modern",
+    "desc": "Released in 2017 as part of Apple's iPhone line, the iPhone X was built as a touchscreen slab running iOS 11.",
+    "fact": "Face ID.",
+    "specs": {
+      "display": "5.8\"",
+      "processor": "Apple A11",
+      "battery": "2716 mAh",
+      "camera": "12 MP Dual rear, 7 MP front",
+      "memory": "3 GB RAM + 64/256 GB storage",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "174 g",
+      "network": "LTE · Nano-SIM",
+      "os": "iOS 11",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "google-pixel-2",
+    "brand": "google",
+    "name": "Pixel 2",
+    "year": 2017,
+    "announced": "October 2017",
+    "released": "October 2017",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "modern",
+    "desc": "Released in 2017 as part of Google's Pixel line, the Pixel 2 was built as a touchscreen slab running Android.",
+    "fact": "It followed the Pixel in Google's lineup.",
+    "specs": {
+      "display": "5.0\"",
+      "processor": "Snapdragon 835",
+      "battery": "2700 mAh",
+      "camera": "12.2 MP rear, 8 MP front",
+      "memory": "4 GB RAM + 64/128 GB storage",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "143 g",
+      "network": "LTE · Nano-SIM",
+      "os": "Android",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "huawei-mate-10-pro",
+    "brand": "huawei",
+    "name": "Mate 10 Pro",
+    "year": 2017,
+    "announced": "November 2017",
+    "released": "November 2017",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "modern",
+    "desc": "Released in 2017 as part of Huawei's Mate line, the Mate 10 Pro was built as a touchscreen slab running Android.",
+    "fact": "It was later followed by the Mate 20 Pro.",
+    "specs": {
+      "display": "6.0\"",
+      "processor": "Kirin 970",
+      "battery": "4000 mAh",
+      "camera": "12+20 MP rear, 8 MP front",
+      "memory": "6 GB RAM + 64/128 GB storage",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "178 g",
+      "network": "LTE · Nano-SIM",
+      "os": "Android",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-3310-2017",
+    "brand": "nokia",
+    "name": "3310 (2017)",
+    "year": 2017,
+    "announced": "2017",
+    "released": "2017",
+    "price": "N/A",
+    "colors": [
+      "Warm Red",
+      "Yellow",
+      "Dark Blue",
+      "Grey"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 2017 as part of Nokia's 3000 line, the 3310 (2017) was built as a candybar handset, a nostalgia-driven reissue of the 2000 original updated with a color screen and modern radio hardware.",
+    "fact": "Its announcement at Mobile World Congress in 2017 drew some of the loudest applause of the entire show, entirely on nostalgia.",
+    "specs": {
+      "display": "2.4\" color LCD",
+      "processor": "N/A",
+      "battery": "1200 mAh",
+      "camera": "2 MP",
+      "memory": "microSD slot",
+      "connectivity": "Bluetooth",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "GSM",
+      "os": "Series 30+",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-6-2017",
+    "brand": "nokia",
+    "name": "6",
+    "year": 2017,
+    "announced": "2017",
+    "released": "2017",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "modern",
+    "desc": "Released in 2017 as part of Nokia's numbered Android line, the 6 was built as a touchscreen slab, the first Nokia-branded Android phone from HMD Global, marking the brand's return to the mainstream smartphone market.",
+    "fact": "It marked HMD Global's first Nokia-branded Android phone, restarting the brand after Microsoft's ownership ended.",
+    "specs": {
+      "display": "5.5\" IPS LCD",
+      "processor": "Snapdragon 430",
+      "battery": "3000 mAh",
+      "camera": "16 MP",
+      "memory": "32/64 GB + microSD",
+      "connectivity": "Wi-Fi, Bluetooth, GPS",
+      "dimensions": "N/A",
+      "weight": "169 g",
+      "network": "GSM/3G/4G",
+      "os": "Android 7.1",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-8-2017",
+    "brand": "nokia",
+    "name": "8",
+    "year": 2017,
+    "announced": "2017",
+    "released": "2017",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "modern",
+    "desc": "Released in 2017 as part of Nokia's numbered Android line, the 8 was built as a touchscreen slab, HMD Global's first true flagship-tier Nokia Android phone, built with Zeiss-branded optics.",
+    "fact": "It was the first HMD-era Nokia phone positioned as a genuine flagship rather than a budget or mid-range device.",
+    "specs": {
+      "display": "5.3\" IPS LCD",
+      "processor": "Snapdragon 835",
+      "battery": "3090 mAh",
+      "camera": "Dual 13 MP, Zeiss optics",
+      "memory": "64 GB + microSD",
+      "connectivity": "Wi-Fi, Bluetooth, NFC, GPS",
+      "dimensions": "N/A",
+      "weight": "160 g",
+      "network": "GSM/3G/4G",
+      "os": "Android 7.1",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "samsung-galaxy-s8",
+    "brand": "samsung",
+    "name": "Galaxy S8",
+    "year": 2017,
+    "announced": "April 2017",
+    "released": "April 2017",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "modern",
+    "desc": "Released in 2017 as part of Samsung's Galaxy S line, the Galaxy S8 was built as a touchscreen slab running Android.",
+    "fact": "Infinity Display.",
+    "specs": {
+      "display": "5.8\"",
+      "processor": "Snapdragon 835",
+      "battery": "3000 mAh",
+      "camera": "12 MP rear, 8 MP front",
+      "memory": "4 GB RAM + 64 GB storage",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "155 g",
+      "network": "LTE · Nano-SIM",
+      "os": "Android",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "apple-iphone-xs",
+    "brand": "apple",
+    "name": "iPhone XS",
+    "year": 2018,
+    "announced": "Sep 2018",
+    "released": "Sep 2018",
+    "price": "$999",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "modern",
+    "desc": "Released in 2018 as part of Apple's iPhone line, the iPhone XS was built as a touchscreen slab running iOS 12.",
+    "fact": "It followed the iPhone X in Apple's lineup.",
+    "specs": {
+      "display": "5.8\"",
+      "processor": "Apple A12",
+      "battery": "2658 mAh",
+      "camera": "12 MP Dual rear, 7 MP front",
+      "memory": "4 GB RAM + 64/256/512 GB storage",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "177 g",
+      "network": "4G · Nano-SIM/eSIM",
+      "os": "iOS 12",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-7-plus",
+    "brand": "nokia",
+    "name": "7 Plus",
+    "year": 2018,
+    "announced": "2018",
+    "released": "2018",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "modern",
+    "desc": "Released in 2018 as part of Nokia's numbered Android line, the 7 Plus was built as a touchscreen slab, a mid-range Android One phone with a distinctive ceramic-effect finish.",
+    "fact": "It ran Android One, guaranteeing clean stock software and timely updates rather than a manufacturer skin.",
+    "specs": {
+      "display": "6\" IPS LCD",
+      "processor": "Snapdragon 660",
+      "battery": "3800 mAh",
+      "camera": "Dual 12 MP, Zeiss optics",
+      "memory": "64 GB + microSD",
+      "connectivity": "Wi-Fi, Bluetooth, NFC, GPS",
+      "dimensions": "N/A",
+      "weight": "183 g",
+      "network": "GSM/3G/4G",
+      "os": "Android One 8.0",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "samsung-galaxy-s9",
+    "brand": "samsung",
+    "name": "Galaxy S9",
+    "year": 2018,
+    "announced": "March 2018",
+    "released": "March 2018",
+    "price": "$719",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "modern",
+    "desc": "Released in 2018 as part of Samsung's Galaxy S line, the Galaxy S9 was built as a touchscreen slab running Android.",
+    "fact": "It followed the Galaxy S8 in Samsung's lineup.",
+    "specs": {
+      "display": "5.8\"",
+      "processor": "Snapdragon 845",
+      "battery": "3000 mAh",
+      "camera": "12 MP rear, 8 MP front",
+      "memory": "4 GB RAM + 64/128/256 GB storage",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "163 g",
+      "network": "4G · Nano-SIM",
+      "os": "Android",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "apple-iphone-11",
+    "brand": "apple",
+    "name": "iPhone 11",
+    "year": 2019,
+    "announced": "Sep 2019",
+    "released": "Sep 2019",
+    "price": "$699",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "modern",
+    "desc": "Released in 2019 as part of Apple's iPhone line, the iPhone 11 was built as a touchscreen slab running iOS 13.",
+    "fact": "It followed the iPhone XR in Apple's lineup.",
+    "specs": {
+      "display": "6.1\"",
+      "processor": "Apple A13",
+      "battery": "3110 mAh",
+      "camera": "12 MP Dual rear, 12 MP front",
+      "memory": "4 GB RAM + 64/128/256 GB storage",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "194 g",
+      "network": "4G · Nano-SIM/eSIM",
+      "os": "iOS 13",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-2720-flip",
+    "brand": "nokia",
+    "name": "2720 Flip",
+    "year": 2019,
+    "announced": "2019",
+    "released": "2019",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "flip",
+    "desc": "Released in 2019 as part of Nokia's 2000 line, the 2720 Flip was built as a flip phone for people who wanted a simple, durable device with basic smart features rather than a full touchscreen smartphone.",
+    "fact": "It ran a lightweight platform called KaiOS, letting a flip phone use apps like WhatsApp and Google Maps.",
+    "specs": {
+      "display": "2.8\" QVGA + external display",
+      "processor": "N/A",
+      "battery": "1500 mAh",
+      "camera": "2 MP",
+      "memory": "microSD slot",
+      "connectivity": "Wi-Fi, Bluetooth, GPS",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "GSM/4G",
+      "os": "KaiOS",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-9-pureview",
+    "brand": "nokia",
+    "name": "9 PureView",
+    "year": 2019,
+    "announced": "2019",
+    "released": "2019",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "modern",
+    "desc": "Released in 2019 as part of Nokia's PureView line, the 9 PureView was built as a touchscreen slab, a camera-obsessed flagship with five rear lenses working together to capture extended depth and light data in a single shot.",
+    "fact": "Its five-camera array captured multiple exposures simultaneously, blending them into a single image with unusually wide dynamic range.",
+    "specs": {
+      "display": "5.99\" OLED",
+      "processor": "Snapdragon 845",
+      "battery": "3320 mAh",
+      "camera": "Penta 12 MP, Zeiss optics",
+      "memory": "128 GB",
+      "connectivity": "Wi-Fi, Bluetooth, NFC, GPS",
+      "dimensions": "N/A",
+      "weight": "172 g",
+      "network": "GSM/3G/4G",
+      "os": "Android One 9.0",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "samsung-galaxy-fold",
+    "brand": "samsung",
+    "name": "Galaxy Fold",
+    "year": 2019,
+    "announced": "September 2019",
+    "released": "September 2019",
+    "price": "$1,980",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "fold",
+    "desc": "Released in 2019 as part of Samsung's Fold line, the Galaxy Fold was built as a foldable phone running Android.",
+    "fact": "First Galaxy Fold.",
+    "specs": {
+      "display": "7.3\"",
+      "processor": "Snapdragon 855",
+      "battery": "4380 mAh",
+      "camera": "16+12+12 MP rear, 10 MP front",
+      "memory": "12 GB RAM + 512 GB storage",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "263 g",
+      "network": "4G · Nano-SIM/eSIM",
+      "os": "Android",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "samsung-galaxy-s10",
+    "brand": "samsung",
+    "name": "Galaxy S10",
+    "year": 2019,
+    "announced": "March 2019",
+    "released": "March 2019",
+    "price": "$899",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "modern",
+    "desc": "Released in 2019 as part of Samsung's Galaxy S line, the Galaxy S10 was built as a touchscreen slab running Android.",
+    "fact": "It followed the Galaxy S9 in Samsung's lineup.",
+    "specs": {
+      "display": "6.1\"",
+      "processor": "Snapdragon 855",
+      "battery": "3400 mAh",
+      "camera": "12+12+16 MP rear, 10 MP front",
+      "memory": "8 GB RAM + 128/512 GB storage",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "157 g",
+      "network": "4G · Nano-SIM",
+      "os": "Android",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "apple-iphone-12",
+    "brand": "apple",
+    "name": "iPhone 12",
+    "year": 2020,
+    "announced": "Oct 2020",
+    "released": "Oct 2020",
+    "price": "$799",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "modern",
+    "desc": "Released in 2020 as part of Apple's iPhone line, the iPhone 12 was built as a touchscreen slab running iOS 14.",
+    "fact": "MagSafe.",
+    "specs": {
+      "display": "6.1\"",
+      "processor": "Apple A14",
+      "battery": "2815 mAh",
+      "camera": "12 MP Dual rear, 12 MP front",
+      "memory": "4 GB RAM + 64/128/256 GB storage",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "164 g",
+      "network": "5G · Nano-SIM/eSIM",
+      "os": "iOS 14",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-8-3-5g",
+    "brand": "nokia",
+    "name": "8.3 5G",
+    "year": 2020,
+    "announced": "2020",
+    "released": "2020",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "modern",
+    "desc": "Released in 2020 as part of Nokia's numbered Android line, the 8.3 5G was built as a touchscreen slab, HMD Global's first 5G-capable Nokia flagship.",
+    "fact": "It was one of the first Nokia-branded phones to support 5G networks, arriving as carriers began wider 5G rollouts.",
+    "specs": {
+      "display": "6.81\" IPS LCD",
+      "processor": "Snapdragon 765G",
+      "battery": "4500 mAh",
+      "camera": "Quad 64 MP, Zeiss optics",
+      "memory": "64/128 GB + microSD",
+      "connectivity": "5G, Wi-Fi, Bluetooth, NFC, GPS",
+      "dimensions": "N/A",
+      "weight": "220 g",
+      "network": "5G/4G",
+      "os": "Android 10",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "samsung-galaxy-s20",
+    "brand": "samsung",
+    "name": "Galaxy S20",
+    "year": 2020,
+    "announced": "March 2020",
+    "released": "March 2020",
+    "price": "$999",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "modern",
+    "desc": "Released in 2020 as part of Samsung's Galaxy S line, the Galaxy S20 was built as a touchscreen slab running Android.",
+    "fact": "It followed the Galaxy S10 in Samsung's lineup.",
+    "specs": {
+      "display": "6.2\"",
+      "processor": "Snapdragon 865",
+      "battery": "4000 mAh",
+      "camera": "12+64+12 MP rear, 10 MP front",
+      "memory": "8 GB RAM + 128 GB storage",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "163 g",
+      "network": "5G · Nano-SIM",
+      "os": "Android",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "samsung-galaxy-z-flip",
+    "brand": "samsung",
+    "name": "Galaxy Z Flip",
+    "year": 2020,
+    "announced": "February 2020",
+    "released": "February 2020",
+    "price": "$1,380",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "fold",
+    "desc": "Released in 2020 as part of Samsung's Z Flip line, the Galaxy Z Flip was built as a foldable phone running Android.",
+    "fact": "It was later followed by the Z Flip3.",
+    "specs": {
+      "display": "6.7\"",
+      "processor": "Snapdragon 855+",
+      "battery": "3300 mAh",
+      "camera": "12+12 MP rear, 10 MP front",
+      "memory": "8 GB RAM + 256 GB storage",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "183 g",
+      "network": "4G · Nano-SIM/eSIM",
+      "os": "Android",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "apple-iphone-13",
+    "brand": "apple",
+    "name": "iPhone 13",
+    "year": 2021,
+    "announced": "Sep 2021",
+    "released": "Sep 2021",
+    "price": "$799",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "modern",
+    "desc": "Released in 2021 as part of Apple's iPhone line, the iPhone 13 was built as a touchscreen slab running iOS 15.",
+    "fact": "It followed the iPhone 12 in Apple's lineup.",
+    "specs": {
+      "display": "6.1\"",
+      "processor": "Apple A15",
+      "battery": "3240 mAh",
+      "camera": "12 MP Dual rear, 12 MP front",
+      "memory": "4 GB RAM + 128/256/512 GB storage",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "174 g",
+      "network": "5G · Nano-SIM/eSIM",
+      "os": "iOS 15",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "google-pixel-6",
+    "brand": "google",
+    "name": "Pixel 6",
+    "year": 2021,
+    "announced": "October 2021",
+    "released": "October 2021",
+    "price": "$599",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "modern",
+    "desc": "Released in 2021 as part of Google's Pixel line, the Pixel 6 was built as a touchscreen slab running Android.",
+    "fact": "It followed the Pixel 5 in Google's lineup.",
+    "specs": {
+      "display": "6.4\"",
+      "processor": "Google Tensor",
+      "battery": "4614 mAh",
+      "camera": "50+12 MP rear, 8 MP front",
+      "memory": "8 GB RAM + 128/256 GB storage",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "207 g",
+      "network": "5G · Nano-SIM/eSIM",
+      "os": "Android",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "huawei-p50-pro",
+    "brand": "huawei",
+    "name": "P50 Pro",
+    "year": 2021,
+    "announced": "July 2021",
+    "released": "July 2021",
+    "price": "$899",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "modern",
+    "desc": "Released in 2021 as part of Huawei's P line, the P50 Pro was built as a touchscreen slab running HarmonyOS.",
+    "fact": "It was later followed by the P60 Pro.",
+    "specs": {
+      "display": "6.6\"",
+      "processor": "Snapdragon 888",
+      "battery": "4360 mAh",
+      "camera": "50+64+13+40 MP rear, 13 MP front",
+      "memory": "8 GB RAM + 256/512 GB storage",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "195 g",
+      "network": "4G · Nano-SIM",
+      "os": "HarmonyOS",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-x20",
+    "brand": "nokia",
+    "name": "X20",
+    "year": 2021,
+    "announced": "2021",
+    "released": "2021",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "modern",
+    "desc": "Released in 2021 as part of Nokia's X line, the X20 was built as a touchscreen slab, a mid-range 5G phone sold with an unusually long software update promise.",
+    "fact": "HMD promised three years of Android version updates and security patches, longer than most rivals offered at the price.",
+    "specs": {
+      "display": "6.67\" IPS LCD",
+      "processor": "Snapdragon 480",
+      "battery": "4470 mAh",
+      "camera": "Quad 64 MP",
+      "memory": "128 GB + microSD",
+      "connectivity": "5G, Wi-Fi, Bluetooth, NFC, GPS",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "5G/4G",
+      "os": "Android 11",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "samsung-galaxy-s21",
+    "brand": "samsung",
+    "name": "Galaxy S21",
+    "year": 2021,
+    "announced": "January 2021",
+    "released": "January 2021",
+    "price": "$799",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "modern",
+    "desc": "Released in 2021 as part of Samsung's Galaxy S line, the Galaxy S21 was built as a touchscreen slab running Android.",
+    "fact": "It followed the Galaxy S20 in Samsung's lineup.",
+    "specs": {
+      "display": "6.2\"",
+      "processor": "Snapdragon 888",
+      "battery": "4000 mAh",
+      "camera": "12+64+12 MP rear, 10 MP front",
+      "memory": "8 GB RAM + 128/256 GB storage",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "171 g",
+      "network": "5G · Nano-SIM",
+      "os": "Android",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "xiaomi-mi-11",
+    "brand": "xiaomi",
+    "name": "Mi 11",
+    "year": 2021,
+    "announced": "January 2021",
+    "released": "January 2021",
+    "price": "$749",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "modern",
+    "desc": "Released in 2021 as part of Xiaomi's Mi line, the Mi 11 was built as a touchscreen slab running Android.",
+    "fact": "It followed the Mi 10 in Xiaomi's lineup.",
+    "specs": {
+      "display": "6.81\"",
+      "processor": "Snapdragon 888",
+      "battery": "4600 mAh",
+      "camera": "108+13+5 MP rear, 20 MP front",
+      "memory": "8/12 GB RAM + 128/256 GB storage",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "196 g",
+      "network": "5G · Dual Nano-SIM",
+      "os": "Android",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "apple-iphone-14",
+    "brand": "apple",
+    "name": "iPhone 14",
+    "year": 2022,
+    "announced": "Sep 2022",
+    "released": "Sep 2022",
+    "price": "$799",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "modern",
+    "desc": "Released in 2022 as part of Apple's iPhone line, the iPhone 14 was built as a touchscreen slab running iOS 16.",
+    "fact": "It followed the iPhone 13 in Apple's lineup.",
+    "specs": {
+      "display": "6.1\"",
+      "processor": "Apple A15",
+      "battery": "3279 mAh",
+      "camera": "12 MP Dual rear, 12 MP front",
+      "memory": "6 GB RAM + 128/256/512 GB storage",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "172 g",
+      "network": "5G · Nano-SIM/eSIM",
+      "os": "iOS 16",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "apple-iphone-14-pro",
+    "brand": "apple",
+    "name": "iPhone 14 Pro",
+    "year": 2022,
+    "announced": "Sep 2022",
+    "released": "2022",
+    "price": "$999",
+    "colors": [
+      "Space Black",
+      "Silver",
+      "Gold",
+      "Deep Purple"
+    ],
+    "shape": "modern",
+    "desc": "The Pro tier of the 2022 lineup replaced the notch with a pill-shaped cutout able to morph into live alerts, alongside an always-on lock screen.",
+    "fact": "Its 'Dynamic Island' turned what used to be a hidden sensor cutout into an animated, interactive part of the interface.",
+    "specs": {
+      "display": "6.1\" LTPO OLED, 1179x2556px",
+      "processor": "Apple A16 Bionic",
+      "battery": "23 hr video",
+      "camera": "Triple 48 MP",
+      "memory": "128/256/512 GB / 1 TB",
+      "connectivity": "5G, Wi-Fi 6, Bluetooth 5.3",
+      "dimensions": "147.5 x 71.5 x 7.85 mm",
+      "weight": "206 g",
+      "network": "5G/4G LTE",
+      "os": "iOS 16",
+      "package": "Handset, cable only"
+    },
+    "status": "published"
+  },
+  {
+    "id": "apple-iphone-14-pro-max",
+    "brand": "apple",
+    "name": "iPhone 14 Pro Max",
+    "year": 2022,
+    "announced": "Sep 2022",
+    "released": "2022",
+    "price": "$1,099",
+    "colors": [
+      "Space Black",
+      "Silver",
+      "Gold",
+      "Deep Purple"
+    ],
+    "shape": "modern",
+    "desc": "The largest and most expensive iPhone at launch, pairing the same Dynamic Island and always-on display with the longest battery life Apple had shipped to date.",
+    "fact": "It held the longest battery life of any iPhone at release, rated for up to 29 hours of video playback.",
+    "specs": {
+      "display": "6.7\" LTPO OLED, 1290x2796px",
+      "processor": "Apple A16 Bionic",
+      "battery": "29 hr video",
+      "camera": "Triple 48 MP",
+      "memory": "128/256/512 GB / 1 TB",
+      "connectivity": "5G, Wi-Fi 6, Bluetooth 5.3",
+      "dimensions": "160.7 x 77.6 x 7.85 mm",
+      "weight": "240 g",
+      "network": "5G/4G LTE",
+      "os": "iOS 16",
+      "package": "Handset, cable only"
+    },
+    "status": "published"
+  },
+  {
+    "id": "google-pixel-7",
+    "brand": "google",
+    "name": "Pixel 7",
+    "year": 2022,
+    "announced": "October 2022",
+    "released": "October 2022",
+    "price": "$599",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "modern",
+    "desc": "Released in 2022 as part of Google's Pixel line, the Pixel 7 was built as a touchscreen slab running Android.",
+    "fact": "It followed the Pixel 6 in Google's lineup.",
+    "specs": {
+      "display": "6.3\"",
+      "processor": "Google Tensor G2",
+      "battery": "4355 mAh",
+      "camera": "50+12 MP rear, 10.8 MP front",
+      "memory": "8 GB RAM + 128/256 GB storage",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "197 g",
+      "network": "5G · Nano-SIM/eSIM",
+      "os": "Android",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-g21",
+    "brand": "nokia",
+    "name": "G21",
+    "year": 2022,
+    "announced": "2022",
+    "released": "2022",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "modern",
+    "desc": "Released in 2022 as part of Nokia's G line, the G21 was built as a touchscreen slab, a budget-focused Android phone built around long battery life.",
+    "fact": "Its large battery was rated for multiple days of typical use rather than the usual single-day smartphone cycle.",
+    "specs": {
+      "display": "6.5\" IPS LCD",
+      "processor": "Unisoc T606",
+      "battery": "5050 mAh",
+      "camera": "Triple 50 MP",
+      "memory": "64/128 GB + microSD",
+      "connectivity": "Wi-Fi, Bluetooth, GPS",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "4G",
+      "os": "Android 11",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nothing-phone-1",
+    "brand": "nothing",
+    "name": "Phone (1)",
+    "year": 2022,
+    "announced": "July 2022",
+    "released": "July 2022",
+    "price": "$479",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "modern",
+    "desc": "Released in 2022 as part of Nothing's Phone line, the Phone (1) was built as a touchscreen slab running Android.",
+    "fact": "First Nothing phone.",
+    "specs": {
+      "display": "6.55\"",
+      "processor": "Snapdragon 778G+",
+      "battery": "4500 mAh",
+      "camera": "50+50 MP rear, 16 MP front",
+      "memory": "8/12 GB RAM + 128/256 GB storage",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "193 g",
+      "network": "5G · Dual Nano-SIM",
+      "os": "Android",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "oneplus-oneplus-10-pro",
+    "brand": "oneplus",
+    "name": "OnePlus 10 Pro",
+    "year": 2022,
+    "announced": "January 2022",
+    "released": "January 2022",
+    "price": "$899",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "modern",
+    "desc": "Released in 2022, the OnePlus 10 Pro was built as a touchscreen slab running Android.",
+    "fact": "It was later followed by the OnePlus 11.",
+    "specs": {
+      "display": "6.7\"",
+      "processor": "Snapdragon 8 Gen 1",
+      "battery": "5000 mAh",
+      "camera": "48+50+8 MP rear, 32 MP front",
+      "memory": "8/12 GB RAM + 128/256 GB storage",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "201 g",
+      "network": "5G · Nano-SIM",
+      "os": "Android",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "samsung-galaxy-s22",
+    "brand": "samsung",
+    "name": "Galaxy S22",
+    "year": 2022,
+    "announced": "February 2022",
+    "released": "February 2022",
+    "price": "$799",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "modern",
+    "desc": "Released in 2022 as part of Samsung's Galaxy S line, the Galaxy S22 was built as a touchscreen slab running Android.",
+    "fact": "It followed the Galaxy S21 in Samsung's lineup.",
+    "specs": {
+      "display": "6.1\"",
+      "processor": "Snapdragon 8 Gen 1",
+      "battery": "3700 mAh",
+      "camera": "50+12+10 MP rear, 10 MP front",
+      "memory": "8 GB RAM + 128/256 GB storage",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "167 g",
+      "network": "5G · Nano-SIM",
+      "os": "Android",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "apple-iphone-15",
+    "brand": "apple",
+    "name": "iPhone 15",
+    "year": 2023,
+    "announced": "Sep 2023",
+    "released": "Sep 2023",
+    "price": "$799",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "modern",
+    "desc": "Released in 2023 as part of Apple's iPhone line, the iPhone 15 was built as a touchscreen slab running iOS 17.",
+    "fact": "USB-C.",
+    "specs": {
+      "display": "6.1\"",
+      "processor": "Apple A16",
+      "battery": "3349 mAh",
+      "camera": "48+12 MP rear, 12 MP front",
+      "memory": "6 GB RAM + 128/256/512 GB storage",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "171 g",
+      "network": "5G · Nano-SIM/eSIM",
+      "os": "iOS 17",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "google-pixel-8",
+    "brand": "google",
+    "name": "Pixel 8",
+    "year": 2023,
+    "announced": "October 2023",
+    "released": "October 2023",
+    "price": "$699",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "modern",
+    "desc": "Released in 2023 as part of Google's Pixel line, the Pixel 8 was built as a touchscreen slab running Android.",
+    "fact": "It followed the Pixel 7 in Google's lineup.",
+    "specs": {
+      "display": "6.2\"",
+      "processor": "Tensor G3",
+      "battery": "4575 mAh",
+      "camera": "50+12 MP rear, 10.5 MP front",
+      "memory": "8 GB RAM + 128/256 GB storage",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "187 g",
+      "network": "5G · Nano-SIM/eSIM",
+      "os": "Android",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-xr21",
+    "brand": "nokia",
+    "name": "XR21",
+    "year": 2023,
+    "announced": "2023",
+    "released": "2023",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "modern",
+    "desc": "Released in 2023 as part of Nokia's XR line, the XR21 was built as a touchscreen slab, a rugged, MIL-SPEC-tested Android phone built to survive drops, dust and water.",
+    "fact": "It was built to military drop-test standards and rated for extended underwater submersion, well beyond typical smartphone durability.",
+    "specs": {
+      "display": "6.49\" IPS LCD",
+      "processor": "Snapdragon 6 Gen 1",
+      "battery": "4800 mAh",
+      "camera": "Dual 64 MP",
+      "memory": "128 GB + microSD",
+      "connectivity": "5G, Wi-Fi, Bluetooth, NFC, GPS",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "5G/4G",
+      "os": "Android 13",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nothing-phone-2",
+    "brand": "nothing",
+    "name": "Phone (2)",
+    "year": 2023,
+    "announced": "July 2023",
+    "released": "July 2023",
+    "price": "$599",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "modern",
+    "desc": "Released in 2023 as part of Nothing's Phone line, the Phone (2) was built as a touchscreen slab running Android.",
+    "fact": "It followed the Phone (1) in Nothing's lineup.",
+    "specs": {
+      "display": "6.7\"",
+      "processor": "Snapdragon 8+ Gen 1",
+      "battery": "4700 mAh",
+      "camera": "50+50 MP rear, 32 MP front",
+      "memory": "8/12 GB RAM + 128/256/512 GB storage",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "201 g",
+      "network": "5G · Dual Nano-SIM",
+      "os": "Android",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "samsung-galaxy-s23",
+    "brand": "samsung",
+    "name": "Galaxy S23",
+    "year": 2023,
+    "announced": "February 2023",
+    "released": "February 2023",
+    "price": "$799",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "modern",
+    "desc": "Released in 2023 as part of Samsung's Galaxy S line, the Galaxy S23 was built as a touchscreen slab running Android.",
+    "fact": "It followed the Galaxy S22 in Samsung's lineup.",
+    "specs": {
+      "display": "6.1\"",
+      "processor": "Snapdragon 8 Gen 2",
+      "battery": "3900 mAh",
+      "camera": "50+12+10 MP rear, 12 MP front",
+      "memory": "8 GB RAM + 128/256 GB storage",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "168 g",
+      "network": "5G · Nano-SIM",
+      "os": "Android",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "apple-iphone-16",
+    "brand": "apple",
+    "name": "iPhone 16",
+    "year": 2024,
+    "announced": "Sep 2024",
+    "released": "Sep 2024",
+    "price": "$799",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "modern",
+    "desc": "Released in 2024 as part of Apple's iPhone line, the iPhone 16 was built as a touchscreen slab running iOS 18.",
+    "fact": "Apple Intelligence support.",
+    "specs": {
+      "display": "6.1\"",
+      "processor": "Apple A18",
+      "battery": "3561 mAh",
+      "camera": "48+12 MP rear, 12 MP front",
+      "memory": "8 GB RAM + 128/256/512 GB storage",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "170 g",
+      "network": "5G · Nano-SIM/eSIM",
+      "os": "iOS 18",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "google-pixel-9",
+    "brand": "google",
+    "name": "Pixel 9",
+    "year": 2024,
+    "announced": "August 2024",
+    "released": "August 2024",
+    "price": "$799",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "modern",
+    "desc": "Released in 2024 as part of Google's Pixel line, the Pixel 9 was built as a touchscreen slab running Android.",
+    "fact": "It followed the Pixel 8 in Google's lineup.",
+    "specs": {
+      "display": "6.3\"",
+      "processor": "Tensor G4",
+      "battery": "4700 mAh",
+      "camera": "50+48 MP rear, 10.5 MP front",
+      "memory": "12 GB RAM + 128/256 GB storage",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "198 g",
+      "network": "5G · Nano-SIM/eSIM",
+      "os": "Android",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "huawei-pura-70-pro",
+    "brand": "huawei",
+    "name": "Pura 70 Pro",
+    "year": 2024,
+    "announced": "April 2024",
+    "released": "April 2024",
+    "price": "$999",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "modern",
+    "desc": "Released in 2024 as part of Huawei's Pura line, the Pura 70 Pro was built as a touchscreen slab running HarmonyOS.",
+    "fact": "P series renamed to Pura.",
+    "specs": {
+      "display": "6.8\"",
+      "processor": "N/A",
+      "battery": "5050 mAh",
+      "camera": "50+48+12.5 MP rear, 13 MP front",
+      "memory": "12 GB RAM + 256/512 GB storage",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "220 g",
+      "network": "5G · Nano-SIM",
+      "os": "HarmonyOS",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nokia-235-4g",
+    "brand": "nokia",
+    "name": "235 4G",
+    "year": 2024,
+    "announced": "2024",
+    "released": "2024",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "candybar",
+    "desc": "Released in 2024 as part of Nokia's 200 line, the 235 4G was built as a candybar handset, a modern feature phone refresh keeping the classic Nokia shape alive on 4G networks.",
+    "fact": "It kept Nokia's classic feature-phone shape in production even as most of the industry had moved entirely to touchscreens.",
+    "specs": {
+      "display": "2.4\" QVGA",
+      "processor": "N/A",
+      "battery": "1450 mAh",
+      "camera": "2 MP",
+      "memory": "microSD slot",
+      "connectivity": "Wi-Fi, Bluetooth",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "4G",
+      "os": "Series 30+",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "oneplus-12",
+    "brand": "oneplus",
+    "name": "12",
+    "year": 2024,
+    "announced": "January 2024",
+    "released": "January 2024",
+    "price": "$799",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "modern",
+    "desc": "Released in 2024, the 12 was built as a touchscreen slab running Android.",
+    "fact": "It followed the 11 in OnePlus's lineup.",
+    "specs": {
+      "display": "6.82\"",
+      "processor": "Snapdragon 8 Gen 3",
+      "battery": "5400 mAh",
+      "camera": "50+64+48 MP rear, 32 MP front",
+      "memory": "12/16 GB RAM + 256/512 GB storage",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "220 g",
+      "network": "5G · Dual Nano-SIM",
+      "os": "Android",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "samsung-galaxy-s24",
+    "brand": "samsung",
+    "name": "Galaxy S24",
+    "year": 2024,
+    "announced": "January 2024",
+    "released": "January 2024",
+    "price": "$799",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "modern",
+    "desc": "Released in 2024 as part of Samsung's Galaxy S line, the Galaxy S24 was built as a touchscreen slab running Android.",
+    "fact": "Galaxy AI.",
+    "specs": {
+      "display": "6.2\"",
+      "processor": "Snapdragon 8 Gen 3",
+      "battery": "4000 mAh",
+      "camera": "50+12+10 MP rear, 12 MP front",
+      "memory": "8 GB RAM + 128/256/512 GB storage",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "167 g",
+      "network": "5G · Nano-SIM",
+      "os": "Android",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "xiaomi-14",
+    "brand": "xiaomi",
+    "name": "14",
+    "year": 2024,
+    "announced": "February 2024",
+    "released": "February 2024",
+    "price": "$899",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "modern",
+    "desc": "Released in 2024, the 14 was built as a touchscreen slab running Android.",
+    "fact": "It followed the 13 in Xiaomi's lineup.",
+    "specs": {
+      "display": "6.36\"",
+      "processor": "Snapdragon 8 Gen 3",
+      "battery": "4610 mAh",
+      "camera": "50+50+50 MP rear, 32 MP front",
+      "memory": "12 GB RAM + 256/512 GB storage",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "193 g",
+      "network": "5G · Dual Nano-SIM",
+      "os": "Android",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "apple-iphone-17",
+    "brand": "apple",
+    "name": "iPhone 17",
+    "year": 2025,
+    "announced": "September 2025",
+    "released": "September 2025",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "modern",
+    "desc": "Released in 2025 as part of Apple's iPhone line, the iPhone 17 was built as a touchscreen slab running iOS 19.",
+    "fact": "It was later followed by the iPhone 16.",
+    "specs": {
+      "display": "N/A",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "N/A",
+      "memory": "N/A",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "5G",
+      "os": "iOS 19",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "google-pixel-10",
+    "brand": "google",
+    "name": "Pixel 10",
+    "year": 2025,
+    "announced": "2025",
+    "released": "2025",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "modern",
+    "desc": "Released in 2025 as part of Google's Pixel line, the Pixel 10 was built as a touchscreen slab running Android.",
+    "fact": "It was later followed by the Pixel 9.",
+    "specs": {
+      "display": "N/A",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "N/A",
+      "memory": "N/A",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "5G",
+      "os": "Android",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "nothing-phone-3",
+    "brand": "nothing",
+    "name": "Phone (3)",
+    "year": 2025,
+    "announced": "July 2025",
+    "released": "July 2025",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "modern",
+    "desc": "Released in 2025 as part of Nothing's Phone line, the Phone (3) was built as a touchscreen slab running Android.",
+    "fact": "It was later followed by the Phone (2).",
+    "specs": {
+      "display": "N/A",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "N/A",
+      "memory": "N/A",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "5G",
+      "os": "Android",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  },
+  {
+    "id": "samsung-galaxy-s25",
+    "brand": "samsung",
+    "name": "Galaxy S25",
+    "year": 2025,
+    "announced": "January 2025",
+    "released": "January 2025",
+    "price": "N/A",
+    "colors": [
+      "N/A"
+    ],
+    "shape": "modern",
+    "desc": "Released in 2025 as part of Samsung's Galaxy S line, the Galaxy S25 was built as a touchscreen slab running Android.",
+    "fact": "It was later followed by the Galaxy S24.",
+    "specs": {
+      "display": "N/A",
+      "processor": "N/A",
+      "battery": "N/A",
+      "camera": "N/A",
+      "memory": "N/A",
+      "connectivity": "N/A",
+      "dimensions": "N/A",
+      "weight": "N/A",
+      "network": "5G",
+      "os": "Android",
+      "package": "Handset (accessory contents not specified in source data)"
+    },
+    "status": "published"
+  }
+]

@@ -1,0 +1,127 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+  --nav-h: 56px;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+html,
+body {
+  background-color: #f5f5f7;
+  color: #1d1d1f;
+  font-family: var(--font-inter), -apple-system, BlinkMacSystemFont, ui-sans-serif, system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
+::selection {
+  background: #0071e3;
+  color: #ffffff;
+}
+
+/* Visible keyboard focus, respected everywhere */
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+textarea:focus-visible,
+select:focus-visible,
+[tabindex]:focus-visible {
+  outline: 2px solid #0071e3;
+  outline-offset: 3px;
+  border-radius: 6px;
+}
+
+@layer components {
+  /* Frosted-glass surface used by the nav and floating panels */
+  .glass {
+    background-color: rgba(255, 255, 255, 0.72);
+    backdrop-filter: saturate(180%) blur(20px);
+    -webkit-backdrop-filter: saturate(180%) blur(20px);
+  }
+
+  .container-x {
+    @apply mx-auto max-w-content px-6 md:px-10;
+  }
+
+  /* Primary pill button — Apple CTA */
+  .btn-primary {
+    @apply inline-flex items-center justify-center gap-2 rounded-full bg-accent px-6 py-3 text-caption font-medium text-white transition-all duration-300 ease-apple hover:bg-accentDark hover:scale-[1.02] active:scale-95 disabled:opacity-40 disabled:pointer-events-none;
+  }
+
+  .btn-secondary {
+    @apply inline-flex items-center justify-center gap-2 rounded-full border border-hairline bg-surface px-6 py-3 text-caption font-medium text-ink transition-all duration-300 ease-apple hover:border-accent hover:text-accent active:scale-95 disabled:opacity-40 disabled:pointer-events-none;
+  }
+
+  .btn-ghost {
+    @apply inline-flex items-center justify-center gap-2 rounded-full px-4 py-2 text-caption font-medium text-secondary transition-colors hover:text-ink;
+  }
+
+  /* Card surface */
+  .card {
+    @apply rounded-xl2 border border-hairline bg-surface shadow-subtle transition-all duration-300 ease-apple;
+  }
+  .card-hover {
+    @apply hover:-translate-y-1 hover:shadow-cardHover;
+  }
+
+  /* Form field used across the CMS */
+  .field {
+    @apply w-full rounded-xl border border-hairline bg-surface px-4 py-2.5 text-meta text-ink outline-none transition-colors placeholder:text-tertiary focus:border-accent;
+  }
+  .field-label {
+    @apply mb-1.5 block text-caption font-medium text-secondary;
+  }
+}
+
+/* Scroll-reveal: elements tagged [data-reveal] fade/slide in when seen. */
+[data-reveal] {
+  opacity: 0;
+  transform: translateY(28px);
+  transition: opacity 0.7s cubic-bezier(0.16, 1, 0.3, 1), transform 0.7s cubic-bezier(0.16, 1, 0.3, 1);
+  will-change: opacity, transform;
+}
+[data-reveal].is-visible {
+  opacity: 1;
+  transform: none;
+}
+
+/* Thin, unobtrusive horizontal scrollbars (timeline, galleries) */
+.scrollbar-thin {
+  scrollbar-width: thin;
+  scrollbar-color: #c7c7cc transparent;
+}
+.scrollbar-thin::-webkit-scrollbar {
+  height: 8px;
+  width: 8px;
+}
+.scrollbar-thin::-webkit-scrollbar-thumb {
+  background: #c7c7cc;
+  border-radius: 9999px;
+}
+.scrollbar-thin::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+  [data-reveal] {
+    opacity: 1 !important;
+    transform: none !important;
+  }
+}
